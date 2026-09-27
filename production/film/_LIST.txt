@@ -1,251 +1,251 @@
-THE SECRET MAP IN THE TREEHOUSE — ONE-FOLDER VIEW
-==================================================
-Order: part by part (shot 01 -> 48).
-Each part: PICTURE first, then ALL AUDIO lines for that picture.
-Keyframe naming : shot_XX.jpg
-Audio naming    : shot_XX_<speaker>.mp3  (narrator / leo / mia / grandpa)
+THE SECRET MAP IN THE TREEHOUSE — ONE FOLDER, 48 PARTS
+=======================================================
+Layout: film/shot_01/ … film/shot_48/  (one folder per part)
+Each part-folder: PICTURE first, then ALL AUDIO lines for that picture.
+Picture naming : shot_XX/shot_XX.jpg
+Audio naming   : shot_XX/shot_XX_<speaker>.mp3  (narrator / leo / mia / grandpa)
 
 
 ACT I — THE DISCOVERY IN THE TREEHOUSE  (0:00 - 0:45)
 ----------------------------------------------------------
 
 SHOT_01  —  Above the Backyard  [0:00 - 0:07]
-    [PICTURE]  shot_01.jpg
-    [AUDIO]    shot_01_narrator.mp3   (Narrator)
+    [PICTURE]  shot_01/shot_01.jpg
+    [AUDIO]    shot_01/shot_01_narrator.mp3   (Narrator)
 
 SHOT_02  —  The Hollow Board  [0:07 - 0:15]
-    [PICTURE]  shot_02.jpg
-    [AUDIO]    shot_02_leo.mp3   (Leo)
+    [PICTURE]  shot_02/shot_02.jpg
+    [AUDIO]    shot_02/shot_02_leo.mp3   (Leo)
 
 SHOT_03  —  The Hidden Cedar Chest  [0:15 - 0:24]
-    [PICTURE]  shot_03.jpg
-    [AUDIO]    shot_03_mia.mp3   (Mia)
-    [AUDIO]    shot_03_leo.mp3   (Leo)
+    [PICTURE]  shot_03/shot_03.jpg
+    [AUDIO]    shot_03/shot_03_mia.mp3   (Mia)
+    [AUDIO]    shot_03/shot_03_leo.mp3   (Leo)
 
 SHOT_04  —  The Map and the Compass  [0:24 - 0:34]
-    [PICTURE]  shot_04.jpg
+    [PICTURE]  shot_04/shot_04.jpg
     [AUDIO]    (no spoken lines — SFX / music only)
 
 SHOT_05  —  The Red X  [0:34 - 0:45]
-    [PICTURE]  shot_05.jpg
-    [AUDIO]    shot_05_mia.mp3   (Mia)
-    [AUDIO]    shot_05_leo.mp3   (Leo)
+    [PICTURE]  shot_05/shot_05.jpg
+    [AUDIO]    shot_05/shot_05_mia.mp3   (Mia)
+    [AUDIO]    shot_05/shot_05_leo.mp3   (Leo)
 
 ACT II — GRANDPA EXPLAINS THE MAP  (0:45 - 1:40)
 ----------------------------------------------------------
 
 SHOT_06  —  Kids Crash the Porch  [0:45 - 0:54]
-    [PICTURE]  shot_06.jpg
-    [AUDIO]    shot_06_leo.mp3   (Leo)
+    [PICTURE]  shot_06/shot_06.jpg
+    [AUDIO]    shot_06/shot_06_leo.mp3   (Leo)
 
 SHOT_07  —  Grandpa Recognizes the Ink  [0:54 - 1:04]
-    [PICTURE]  shot_07.jpg
-    [AUDIO]    shot_07_grandpa.mp3   (Grandpa Tom)
+    [PICTURE]  shot_07/shot_07.jpg
+    [AUDIO]    shot_07/shot_07_grandpa.mp3   (Grandpa Tom)
 
 SHOT_08  —  The Valley Explorers  [1:04 - 1:16]
-    [PICTURE]  shot_08.jpg
-    [AUDIO]    shot_08_mia.mp3   (Mia)
-    [AUDIO]    shot_08_grandpa.mp3   (Grandpa Tom)
+    [PICTURE]  shot_08/shot_08.jpg
+    [AUDIO]    shot_08/shot_08_mia.mp3   (Mia)
+    [AUDIO]    shot_08/shot_08_grandpa.mp3   (Grandpa Tom)
 
 SHOT_09  —  Tracing the Route  [1:16 - 1:28]
-    [PICTURE]  shot_09.jpg
-    [AUDIO]    shot_09_grandpa.mp3   (Grandpa Tom)
+    [PICTURE]  shot_09/shot_09.jpg
+    [AUDIO]    shot_09/shot_09_grandpa.mp3   (Grandpa Tom)
 
 SHOT_10  —  Back on Duty  [1:28 - 1:40]
-    [PICTURE]  shot_10.jpg
-    [AUDIO]    shot_10_leo.mp3   (Leo)
-    [AUDIO]    shot_10_mia.mp3   (Mia)
-    [AUDIO]    shot_10_grandpa.mp3   (Grandpa Tom)
+    [PICTURE]  shot_10/shot_10.jpg
+    [AUDIO]    shot_10/shot_10_leo.mp3   (Leo)
+    [AUDIO]    shot_10/shot_10_mia.mp3   (Mia)
+    [AUDIO]    shot_10/shot_10_grandpa.mp3   (Grandpa Tom)
 
 ACT III — ENTERING THE FOREST  (1:40 - 3:00)
 ----------------------------------------------------------
 
 SHOT_11  —  Bobo Steals the Map  [1:40 - 1:52]
-    [PICTURE]  shot_11.jpg
-    [AUDIO]    shot_11_leo.mp3   (Leo)
-    [AUDIO]    shot_11_mia.mp3   (Mia)
+    [PICTURE]  shot_11/shot_11.jpg
+    [AUDIO]    shot_11/shot_11_leo.mp3   (Leo)
+    [AUDIO]    shot_11/shot_11_mia.mp3   (Mia)
 
 SHOT_12  —  The Fence Chase  [1:52 - 2:05]
-    [PICTURE]  shot_12.jpg
-    [AUDIO]    shot_12_mia.mp3   (Mia)
+    [PICTURE]  shot_12/shot_12.jpg
+    [AUDIO]    shot_12/shot_12_mia.mp3   (Mia)
 
 SHOT_13  —  Biscuit Bargain  [2:05 - 2:15]
-    [PICTURE]  shot_13.jpg
-    [AUDIO]    shot_13_leo.mp3   (Leo)
+    [PICTURE]  shot_13/shot_13.jpg
+    [AUDIO]    shot_13/shot_13_leo.mp3   (Leo)
 
 SHOT_14  —  Into the Whispering Forest  [2:15 - 2:30]
-    [PICTURE]  shot_14.jpg
-    [AUDIO]    shot_14_narrator.mp3   (Narrator)
+    [PICTURE]  shot_14/shot_14.jpg
+    [AUDIO]    shot_14/shot_14_narrator.mp3   (Narrator)
 
 SHOT_15  —  The Blue Butterfly  [2:30 - 2:45]
-    [PICTURE]  shot_15.jpg
-    [AUDIO]    shot_15_mia.mp3   (Mia)
-    [AUDIO]    shot_15_leo.mp3   (Leo)
+    [PICTURE]  shot_15/shot_15.jpg
+    [AUDIO]    shot_15/shot_15_mia.mp3   (Mia)
+    [AUDIO]    shot_15/shot_15_leo.mp3   (Leo)
 
 SHOT_16  —  The River Canyon Reveal  [2:45 - 3:00]
-    [PICTURE]  shot_16.jpg
-    [AUDIO]    shot_16_leo.mp3   (Leo)
+    [PICTURE]  shot_16/shot_16.jpg
+    [AUDIO]    shot_16/shot_16_leo.mp3   (Leo)
 
 ACT IV — CROSSING THE RIVER  (3:00 - 4:20)
 ----------------------------------------------------------
 
 SHOT_17  —  The Fallen Redwood Bridge  [3:00 - 3:12]
-    [PICTURE]  shot_17.jpg
-    [AUDIO]    shot_17_mia.mp3   (Mia)
-    [AUDIO]    shot_17_leo.mp3   (Leo)
+    [PICTURE]  shot_17/shot_17.jpg
+    [AUDIO]    shot_17/shot_17_mia.mp3   (Mia)
+    [AUDIO]    shot_17/shot_17_leo.mp3   (Leo)
 
 SHOT_18  —  Leo Tests the Log  [3:12 - 3:25]
-    [PICTURE]  shot_18.jpg
-    [AUDIO]    shot_18_leo.mp3   (Leo)
+    [PICTURE]  shot_18/shot_18.jpg
+    [AUDIO]    shot_18/shot_18_leo.mp3   (Leo)
 
 SHOT_19  —  Canine Commando Crawl  [3:25 - 3:38]
-    [PICTURE]  shot_19.jpg
-    [AUDIO]    shot_19_leo.mp3   (Leo)
+    [PICTURE]  shot_19/shot_19.jpg
+    [AUDIO]    shot_19/shot_19_leo.mp3   (Leo)
 
 SHOT_20  —  Bobo Slips!  [3:38 - 3:52]
-    [PICTURE]  shot_20.jpg
-    [AUDIO]    shot_20_leo.mp3   (Leo)
-    [AUDIO]    shot_20_mia.mp3   (Mia)
+    [PICTURE]  shot_20/shot_20.jpg
+    [AUDIO]    shot_20/shot_20_leo.mp3   (Leo)
+    [AUDIO]    shot_20/shot_20_mia.mp3   (Mia)
 
 SHOT_21  —  Safe Landing  [3:52 - 4:05]
-    [PICTURE]  shot_21.jpg
-    [AUDIO]    shot_21_leo.mp3   (Leo)
+    [PICTURE]  shot_21/shot_21.jpg
+    [AUDIO]    shot_21/shot_21_leo.mp3   (Leo)
 
 SHOT_22  —  Valley Explorers: 1, River: 0  [4:05 - 4:20]
-    [PICTURE]  shot_22.jpg
-    [AUDIO]    shot_22_mia.mp3   (Mia)
-    [AUDIO]    shot_22_leo.mp3   (Leo)
+    [PICTURE]  shot_22/shot_22.jpg
+    [AUDIO]    shot_22/shot_22_mia.mp3   (Mia)
+    [AUDIO]    shot_22/shot_22_leo.mp3   (Leo)
 
 ACT V — THE CAVE PUZZLE  (4:20 - 6:00)
 ----------------------------------------------------------
 
 SHOT_23  —  The Whispering Cavern  [4:20 - 4:32]
-    [PICTURE]  shot_23.jpg
-    [AUDIO]    shot_23_narrator.mp3   (Narrator)
+    [PICTURE]  shot_23/shot_23.jpg
+    [AUDIO]    shot_23/shot_23_narrator.mp3   (Narrator)
 
 SHOT_24  —  The Puzzle Door  [4:32 - 4:44]
-    [PICTURE]  shot_24.jpg
-    [AUDIO]    shot_24_leo.mp3   (Leo)
+    [PICTURE]  shot_24/shot_24.jpg
+    [AUDIO]    shot_24/shot_24_leo.mp3   (Leo)
 
 SHOT_25  —  The Compass Is the Key  [4:44 - 4:56]
-    [PICTURE]  shot_25.jpg
-    [AUDIO]    shot_25_mia.mp3   (Mia)
-    [AUDIO]    shot_25_leo.mp3   (Leo)
+    [PICTURE]  shot_25/shot_25.jpg
+    [AUDIO]    shot_25/shot_25_mia.mp3   (Mia)
+    [AUDIO]    shot_25/shot_25_leo.mp3   (Leo)
 
 SHOT_26  —  The Riddle Ignites  [4:56 - 5:10]
-    [PICTURE]  shot_26.jpg
-    [AUDIO]    shot_26_mia.mp3   (Mia)
-    [AUDIO]    shot_26_leo.mp3   (Leo)
+    [PICTURE]  shot_26/shot_26.jpg
+    [AUDIO]    shot_26/shot_26_mia.mp3   (Mia)
+    [AUDIO]    shot_26/shot_26_leo.mp3   (Leo)
 
 SHOT_27  —  Dawn Is the Sun  [5:10 - 5:25]
-    [PICTURE]  shot_27.jpg
-    [AUDIO]    shot_27_mia.mp3   (Mia)
-    [AUDIO]    shot_27_leo.mp3   (Leo)
+    [PICTURE]  shot_27/shot_27.jpg
+    [AUDIO]    shot_27/shot_27_mia.mp3   (Mia)
+    [AUDIO]    shot_27/shot_27_leo.mp3   (Leo)
 
 SHOT_28  —  Then Comes the Night  [5:25 - 5:40]
-    [PICTURE]  shot_28.jpg
-    [AUDIO]    shot_28_leo.mp3   (Leo)
+    [PICTURE]  shot_28/shot_28.jpg
+    [AUDIO]    shot_28/shot_28_leo.mp3   (Leo)
 
 SHOT_29  —  The Star Burns Last  [5:40 - 6:00]
-    [PICTURE]  shot_29.jpg
-    [AUDIO]    shot_29_leo.mp3   (Leo)
-    [AUDIO]    shot_29_mia.mp3   (Mia)
+    [PICTURE]  shot_29/shot_29.jpg
+    [AUDIO]    shot_29/shot_29_leo.mp3   (Leo)
+    [AUDIO]    shot_29/shot_29_mia.mp3   (Mia)
 
 ACT VI — CAVE COLLAPSE AND ESCAPE  (6:00 - 7:15)
 ----------------------------------------------------------
 
 SHOT_30  —  The Inner Vault  [6:00 - 6:15]
-    [PICTURE]  shot_30.jpg
-    [AUDIO]    shot_30_mia.mp3   (Mia)
+    [PICTURE]  shot_30/shot_30.jpg
+    [AUDIO]    shot_30/shot_30_mia.mp3   (Mia)
 
 SHOT_31  —  Cave-in!  [6:15 - 6:28]
-    [PICTURE]  shot_31.jpg
-    [AUDIO]    shot_31_leo.mp3   (Leo)
+    [PICTURE]  shot_31/shot_31.jpg
+    [AUDIO]    shot_31/shot_31_leo.mp3   (Leo)
 
 SHOT_32  —  Trapped!  [6:28 - 6:40]
-    [PICTURE]  shot_32.jpg
-    [AUDIO]    shot_32_mia.mp3   (Mia)
-    [AUDIO]    shot_32_leo.mp3   (Leo)
+    [PICTURE]  shot_32/shot_32.jpg
+    [AUDIO]    shot_32/shot_32_mia.mp3   (Mia)
+    [AUDIO]    shot_32/shot_32_leo.mp3   (Leo)
 
 SHOT_33  —  Bobo Finds the Lever  [6:40 - 6:52]
-    [PICTURE]  shot_33.jpg
+    [PICTURE]  shot_33/shot_33.jpg
     [AUDIO]    (BOBO — puppy vocalization, SFX only)
 
 SHOT_34  —  The Secret Exit  [6:52 - 7:05]
-    [PICTURE]  shot_34.jpg
-    [AUDIO]    shot_34_mia.mp3   (Mia)
-    [AUDIO]    shot_34_leo.mp3   (Leo)
+    [PICTURE]  shot_34/shot_34.jpg
+    [AUDIO]    shot_34/shot_34_mia.mp3   (Mia)
+    [AUDIO]    shot_34/shot_34_leo.mp3   (Leo)
 
 SHOT_35  —  Into the Sunshine  [7:05 - 7:15]
-    [PICTURE]  shot_35.jpg
-    [AUDIO]    shot_35_leo.mp3   (Leo)
-    [AUDIO]    shot_35_mia.mp3   (Mia)
+    [PICTURE]  shot_35/shot_35.jpg
+    [AUDIO]    shot_35/shot_35_leo.mp3   (Leo)
+    [AUDIO]    shot_35/shot_35_mia.mp3   (Mia)
 
 ACT VII — DISCOVERING THE REAL TREASURE  (7:15 - 8:45)
 ----------------------------------------------------------
 
 SHOT_36  —  Opening the Chest  [7:15 - 7:28]
-    [PICTURE]  shot_36.jpg
+    [PICTURE]  shot_36/shot_36.jpg
     [AUDIO]    (no spoken lines — SFX / music only)
 
 SHOT_37  —  Not Gold — Memories  [7:28 - 7:42]
-    [PICTURE]  shot_37.jpg
-    [AUDIO]    shot_37_leo.mp3   (Leo)
+    [PICTURE]  shot_37/shot_37.jpg
+    [AUDIO]    shot_37/shot_37_leo.mp3   (Leo)
 
 SHOT_38  —  The 1968 Photograph  [7:42 - 8:00]
-    [PICTURE]  shot_38.jpg
-    [AUDIO]    shot_38_mia.mp3   (Mia)
-    [AUDIO]    shot_38_leo.mp3   (Leo)
+    [PICTURE]  shot_38/shot_38.jpg
+    [AUDIO]    shot_38/shot_38_mia.mp3   (Mia)
+    [AUDIO]    shot_38/shot_38_leo.mp3   (Leo)
 
 SHOT_39  —  Their Treasure  [8:00 - 8:18]
-    [PICTURE]  shot_39.jpg
-    [AUDIO]    shot_39_mia.mp3   (Mia)
-    [AUDIO]    shot_39_leo.mp3   (Leo)
+    [PICTURE]  shot_39/shot_39.jpg
+    [AUDIO]    shot_39/shot_39_mia.mp3   (Mia)
+    [AUDIO]    shot_39/shot_39_leo.mp3   (Leo)
 
 SHOT_40  —  Stories We Leave Behind  [8:18 - 8:32]
-    [PICTURE]  shot_40.jpg
-    [AUDIO]    shot_40_narrator.mp3   (Narrator)
+    [PICTURE]  shot_40/shot_40.jpg
+    [AUDIO]    shot_40/shot_40_narrator.mp3   (Narrator)
 
 ACT VIII — GRANDPA EXPLAINS THE MEMORIES  (8:45 - 9:35)
 ----------------------------------------------------------
 
 SHOT_41  —  Home at Twilight  [8:45 - 8:58]
-    [PICTURE]  shot_41.jpg
-    [AUDIO]    shot_41_grandpa.mp3   (Grandpa Tom)
+    [PICTURE]  shot_41/shot_41.jpg
+    [AUDIO]    shot_41/shot_41_grandpa.mp3   (Grandpa Tom)
 
 SHOT_42  —  Grandpa's Sailboat  [8:58 - 9:12]
-    [PICTURE]  shot_42.jpg
-    [AUDIO]    shot_42_grandpa.mp3   (Grandpa Tom)
+    [PICTURE]  shot_42/shot_42.jpg
+    [AUDIO]    shot_42/shot_42_grandpa.mp3   (Grandpa Tom)
 
 SHOT_43  —  The Family Hug  [9:12 - 9:25]
-    [PICTURE]  shot_43.jpg
-    [AUDIO]    shot_43_leo.mp3   (Leo)
-    [AUDIO]    shot_43_grandpa.mp3   (Grandpa Tom)
+    [PICTURE]  shot_43/shot_43.jpg
+    [AUDIO]    shot_43/shot_43_leo.mp3   (Leo)
+    [AUDIO]    shot_43/shot_43_grandpa.mp3   (Grandpa Tom)
 
 SHOT_44  —  The Marble Catastrophe  [9:25 - 9:35]
-    [PICTURE]  shot_44.jpg
-    [AUDIO]    shot_44_grandpa.mp3   (Grandpa Tom)
+    [PICTURE]  shot_44/shot_44.jpg
+    [AUDIO]    shot_44/shot_44_grandpa.mp3   (Grandpa Tom)
 
 ACT IX — THE MYSTERIOUS COMPASS & CLIFFHANGER  (9:35 - 10:00)
 ----------------------------------------------------------
 
 SHOT_45  —  Midnight Treehouse  [9:35 - 9:44]
-    [PICTURE]  shot_45.jpg
+    [PICTURE]  shot_45/shot_45.jpg
     [AUDIO]    (no spoken lines — SFX / music only)
 
 SHOT_46  —  The Compass Awakens  [9:44 - 9:52]
-    [PICTURE]  shot_46.jpg
+    [PICTURE]  shot_46/shot_46.jpg
     [AUDIO]    (no spoken lines — SFX / music only)
 
 SHOT_47  —  The Blue Light  [9:52 - 9:57]
-    [PICTURE]  shot_47.jpg
-    [AUDIO]    shot_47_mia.mp3   (Mia)
-    [AUDIO]    shot_47_leo.mp3   (Leo)
+    [PICTURE]  shot_47/shot_47.jpg
+    [AUDIO]    shot_47/shot_47_mia.mp3   (Mia)
+    [AUDIO]    shot_47/shot_47_leo.mp3   (Leo)
 
 SHOT_48  —  To Be Continued...  [9:57 - 10:00]
-    [PICTURE]  shot_48.jpg
+    [PICTURE]  shot_48/shot_48.jpg
     [AUDIO]    (no spoken lines — SFX / music only)
 
 ----------------------------------------------------------
-TOTALS: 48 pictures, 63 audio clips
+TOTALS: 48 pictures, 63 audio clips, 48 part-folders
 STATUS: COMPLETE — nothing missing

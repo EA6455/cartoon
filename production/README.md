@@ -20,9 +20,10 @@ production/
 │   └── audio/            ← shot_XX_speaker.mp3 (one clip per spoken line)
 ├── prompts/              ← shot_01.txt … shot_48.txt (paste-ready for
 │                            Veo / Sora / Kling / Runway / Pika)
-├── film/                 ← ONE-FOLDER view: every shot's picture first,
-│                            then all its audio lines, part by part
-│                            (+ _LIST.txt manifest of the whole film)
+├── film/                 ← ONE folder split into 48 part-folders:
+│                            film/shot_01/ … film/shot_48/ — each part holds
+│                            its picture first, then all its audio lines
+│                            (+ _LIST.txt manifest at the film/ root)
 └── tools/
     ├── generate_prompts.py  ← regenerates prompts/ from data/film.json
     └── build_one_folder.py  ← regenerates film/ (picture + audios per shot)

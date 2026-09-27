@@ -1,9 +1,11 @@
 #!/usr/bin/env python3
 """Build the one-folder delivery view: production/film/
 
-Everything in ONE folder, part by part (shot 01 → 48):
-each shot's PICTURE first, followed by ALL of its AUDIO lines.
-Also writes _LIST.txt — the ordered manifest of the whole film.
+ONE folder, split into 48 part-folders (shot_01/ … shot_48/).
+Each part-folder contains, in order:
+    1. the PICTURE   — shot_XX.jpg
+    2. ALL its AUDIO — shot_XX_<speaker>.mp3 (narrator / leo / mia / grandpa)
+Also writes _LIST.txt at the film/ root — the ordered manifest of the film.
 
 Re-run any time assets change:
     python3 tools/build_one_folder.py
@@ -34,21 +36,18 @@ SPEAKER_NAMES = {
 with open(os.path.join(ROOT, "data", "film.json"), encoding="utf-8") as f:
     film = json.load(f)
 
-os.makedirs(FILM_DIR, exist_ok=True)
-
-# start clean (files only, keep it flat)
-for name in os.listdir(FILM_DIR):
-    p = os.path.join(FILM_DIR, name)
-    if os.path.isfile(p):
-        os.remove(p)
+# start completely clean
+if os.path.isdir(FILM_DIR):
+    shutil.rmtree(FILM_DIR)
+os.makedirs(FILM_DIR)
 
 out = [
-    "THE SECRET MAP IN THE TREEHOUSE — ONE-FOLDER VIEW",
-    "==================================================",
-    "Order: part by part (shot 01 -> 48).",
-    "Each part: PICTURE first, then ALL AUDIO lines for that picture.",
-    "Keyframe naming : shot_XX.jpg",
-    "Audio naming    : shot_XX_<speaker>.mp3  (narrator / leo / mia / grandpa)",
+    "THE SECRET MAP IN THE TREEHOUSE — ONE FOLDER, 48 PARTS",
+    "=======================================================",
+    "Layout: film/shot_01/ … film/shot_48/  (one folder per part)",
+    "Each part-folder: PICTURE first, then ALL AUDIO lines for that picture.",
+    "Picture naming : shot_XX/shot_XX.jpg",
+    "Audio naming   : shot_XX/shot_XX_<speaker>.mp3  (narrator / leo / mia / grandpa)",
     "",
 ]
 
@@ -61,17 +60,20 @@ for act in film["acts"]:
     out.append("-" * 58)
     for s in act["shots"]:
         sid = f"shot_{s['id']:02d}"
+        part_dir = os.path.join(FILM_DIR, sid)
+        os.makedirs(part_dir, exist_ok=True)
+
         out.append("")
         out.append(f"{sid.upper()}  —  {s['title']}  [{s['timecode']}]")
 
         # 1) the picture
         kf_src = os.path.join(ROOT, "assets", "keyframes", f"{sid}.jpg")
         if os.path.exists(kf_src):
-            shutil.copy2(kf_src, os.path.join(FILM_DIR, f"{sid}.jpg"))
+            shutil.copy2(kf_src, os.path.join(part_dir, f"{sid}.jpg"))
             pics += 1
-            out.append(f"    [PICTURE]  {sid}.jpg")
+            out.append(f"    [PICTURE]  {sid}/{sid}.jpg")
         else:
-            missing.append(f"{sid}.jpg")
+            missing.append(f"{sid}/{sid}.jpg")
 
         # 2) all audio lines for this picture
         lines = [
@@ -88,16 +90,16 @@ for act in film["acts"]:
             for slug in slugs:
                 a_src = os.path.join(ROOT, "assets", "audio", f"{sid}_{slug}.mp3")
                 if os.path.exists(a_src):
-                    shutil.copy2(a_src, os.path.join(FILM_DIR, f"{sid}_{slug}.mp3"))
+                    shutil.copy2(a_src, os.path.join(part_dir, f"{sid}_{slug}.mp3"))
                     clips += 1
-                    out.append(f"    [AUDIO]    {sid}_{slug}.mp3   ({SPEAKER_NAMES[slug]})")
+                    out.append(f"    [AUDIO]    {sid}/{sid}_{slug}.mp3   ({SPEAKER_NAMES[slug]})")
                 else:
-                    missing.append(f"{sid}_{slug}.mp3")
+                    missing.append(f"{sid}/{sid}_{slug}.mp3")
 
 out += [
     "",
     "-" * 58,
-    f"TOTALS: {pics} pictures, {clips} audio clips",
+    f"TOTALS: {pics} pictures, {clips} audio clips, 48 part-folders",
 ]
 if missing:
     out.append(f"MISSING: {', '.join(missing)}")
@@ -108,6 +110,7 @@ with open(os.path.join(FILM_DIR, "_LIST.txt"), "w", encoding="utf-8") as f:
     f.write("\n".join(out) + "\n")
 
 print(f"Built {FILM_DIR}")
-print(f"  pictures : {pics}/48")
-print(f"  audio    : {clips}")
-print(f"  missing  : {missing or 'none'}")
+print(f"  part-folders : 48")
+print(f"  pictures     : {pics}/48")
+print(f"  audio clips  : {clips}")
+print(f"  missing      : {missing or 'none'}")
