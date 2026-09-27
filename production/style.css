@@ -363,6 +363,18 @@ body.editing .shot-card { border-color: rgba(245, 185, 66, 0.4); border-style: d
 }
 .download-btn.alt:hover { background: var(--gold-soft); }
 
+/* ---------------- background score ---------------- */
+.bg-row { margin-top: 14px; }
+.bg-play {
+  font-size: 0.95rem; font-weight: 800; padding: 12px 22px;
+  border-radius: 12px; border: 1px solid rgba(180, 140, 255, 0.55);
+  background: rgba(180, 140, 255, 0.12); color: var(--purple);
+  transition: all 0.15s ease;
+}
+.bg-play:hover:not(:disabled) { background: rgba(180, 140, 255, 0.28); transform: translateY(-1px); }
+.bg-play.playing { background: var(--purple); color: #14092b; }
+.act-bg { font-size: 0.72rem; padding: 6px 13px; align-self: center; }
+
 /* ---------------- footer ---------------- */
 .footer { border-top: 1px solid var(--card-edge); padding: 26px 24px 40px; text-align: center; color: var(--ink-dim); }
 

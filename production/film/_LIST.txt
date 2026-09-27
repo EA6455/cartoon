@@ -247,5 +247,5 @@ SHOT_48  —  To Be Continued...  [9:57 - 10:00]
     [AUDIO]    (no spoken lines — SFX / music only)
 
 ----------------------------------------------------------
-TOTALS: 48 pictures, 63 audio clips, 48 part-folders
+TOTALS: 48 pictures, 63 audio clips, 48 part-folders, 10 background tracks
 STATUS: COMPLETE — nothing missing

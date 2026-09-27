@@ -150,6 +150,7 @@ async function main() {
   renderFilmstrip();
   trackProgress();
   revealDownloads();
+  revealBackground();
   wireControls();
   wireEditEvents();
 }
@@ -166,6 +167,14 @@ async function revealDownloads() {
   if (!hasFull) full.style.display = 'none';
   if (!hasFilm) film.style.display = 'none';
   if (hasFull || hasFilm) row.hidden = false;
+}
+
+/* full-film background score player */
+async function revealBackground() {
+  const btn = document.getElementById('bg-play');
+  if (!btn) return;
+  const ok = await exists('assets/audio/bg/background_full.mp3');
+  btn.hidden = !ok;
 }
 
 /* ---------- renderers ---------- */

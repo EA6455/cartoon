@@ -46,7 +46,10 @@
           "video_prompt": "3D Pixar style feature animation. Golden afternoon sunbeams filtering through lush green oak leaves into an elaborate wooden treehouse. Inside, 10-year-old boy Leo (royal blue hoodie, messy brown hair, red sneakers) kneels on floorboards tapping with a toy wooden mallet. 9-year-old girl Mia (canary-yellow windbreaker, dark twin ponytails) sits cross-legged on a patterned rug adjusting a toy spyglass. Bobo, a fluffy golden puppy with a blue collar, lies nearby wagging his tail. Camera slowly cranes down from tree branches and dollys forward through the open rustic window. 24fps smooth cinematic.",
           "camera": "Crane down from exterior canopy, slow forward dolly into treehouse window.",
           "voiceover": [
-            { "speaker": "NARRATOR", "text": "Every great adventure in the world has to start somewhere. For Leo and Mia... it started right above their own backyard." }
+            {
+              "speaker": "NARRATOR",
+              "text": "Every great adventure in the world has to start somewhere. For Leo and Mia... it started right above their own backyard."
+            }
           ],
           "dialogue": [],
           "sfx": "Gentle breeze in leaves, songbirds chirping, hollow rhythmic wood tapping."
@@ -59,7 +62,10 @@
           "camera": "Slow push-in over Leo's shoulder toward the vibrating floor plank.",
           "voiceover": [],
           "dialogue": [
-            { "speaker": "LEO", "text": "Mia! Look at this! This board isn't nailed down at all!" }
+            {
+              "speaker": "LEO",
+              "text": "Mia! Look at this! This board isn't nailed down at all!"
+            }
           ],
           "sfx": "Hollow wooden thud, soft curious puppy whimper."
         },
@@ -71,8 +77,14 @@
           "camera": "45-degree downward tilt tracking the lifting plank, rack-focusing into the hidden box.",
           "voiceover": [],
           "dialogue": [
-            { "speaker": "MIA", "text": "Whoa... It's an old cedar chest! Leo, do you think it's been hidden here since the treehouse was built?" },
-            { "speaker": "LEO", "text": "Only one way to find out!" }
+            {
+              "speaker": "MIA",
+              "text": "Whoa... It's an old cedar chest! Leo, do you think it's been hidden here since the treehouse was built?"
+            },
+            {
+              "speaker": "LEO",
+              "text": "Only one way to find out!"
+            }
           ],
           "sfx": "Creaking dry timber, wood dust blowing, puppy sniffling."
         },
@@ -95,12 +107,19 @@
           "camera": "Top-down bird's-eye view pulling out to dynamic eye-level medium two-shot.",
           "voiceover": [],
           "dialogue": [
-            { "speaker": "MIA", "text": "Look at these markings... That's our valley! The Whispering Forest!" },
-            { "speaker": "LEO", "text": "We have to show Grandpa Tom right now! Come on, Bobo!" }
+            {
+              "speaker": "MIA",
+              "text": "Look at these markings... That's our valley! The Whispering Forest!"
+            },
+            {
+              "speaker": "LEO",
+              "text": "We have to show Grandpa Tom right now! Come on, Bobo!"
+            }
           ],
           "sfx": "Unrolling dry paper parchment, compass mechanical click, two happy puppy barks."
         }
-      ]
+      ],
+      "background": "assets/audio/bg/act_01.mp3"
     },
     {
       "id": "II",
@@ -115,7 +134,10 @@
           "camera": "Low-angle tracking shot moving backward alongside Grandpa Tom's rocking chair.",
           "voiceover": [],
           "dialogue": [
-            { "speaker": "LEO", "text": "Grandpa! Look what was under the treehouse floorboards! A real hidden box!" }
+            {
+              "speaker": "LEO",
+              "text": "Grandpa! Look what was under the treehouse floorboards! A real hidden box!"
+            }
           ],
           "sfx": "Screen door spring twang and wooden slam, sneakers running on wood decking."
         },
@@ -127,7 +149,10 @@
           "camera": "Slow push-in on Grandpa Tom's emotional, nostalgic face.",
           "voiceover": [],
           "dialogue": [
-            { "speaker": "GRANDPA_TOM", "text": "Bless my soul... I haven't laid eyes on this ink in over fifty years." }
+            {
+              "speaker": "GRANDPA_TOM",
+              "text": "Bless my soul... I haven't laid eyes on this ink in over fifty years."
+            }
           ],
           "sfx": "Wood block set down on table, gentle wind chimes."
         },
@@ -139,8 +164,14 @@
           "camera": "Smooth side pan tracking between Grandpa's hands and the children's faces.",
           "voiceover": [],
           "dialogue": [
-            { "speaker": "MIA", "text": "You made this, Grandpa? Is it really a treasure map?" },
-            { "speaker": "GRANDPA_TOM", "text": "My old childhood crew and I drew every line on this map. We called ourselves the Valley Explorers. And that red X leads straight into the Whispering Forest." }
+            {
+              "speaker": "MIA",
+              "text": "You made this, Grandpa? Is it really a treasure map?"
+            },
+            {
+              "speaker": "GRANDPA_TOM",
+              "text": "My old childhood crew and I drew every line on this map. We called ourselves the Valley Explorers. And that red X leads straight into the Whispering Forest."
+            }
           ],
           "sfx": "Compass brass handling, gentle porch rocking creaks."
         },
@@ -151,7 +182,10 @@
           "video_prompt": "3D Pixar style. Macro close-up on the vintage map illustration. Grandpa Tom's weathered index finger traces along hand-inked topographical contours, crossing a roaring river sketch to an ancient mountain cavern marked with a red X. Shimmering golden memory dust particles subtly drift from the paper. Bobo rests his chin flat on the wooden table, watching Grandpa's finger intently.",
           "camera": "Macro gliding shot tracking Grandpa's finger across the parchment map.",
           "voiceover": [
-            { "speaker": "GRANDPA_TOM", "text": "There's an old forgotten cave beyond the rapids. We sealed a secret chest inside — a vault holding the greatest treasure of our youth. But only those who work together can unlock it." }
+            {
+              "speaker": "GRANDPA_TOM",
+              "text": "There's an old forgotten cave beyond the rapids. We sealed a secret chest inside — a vault holding the greatest treasure of our youth. But only those who work together can unlock it."
+            }
           ],
           "dialogue": [],
           "sfx": "Finger rubbing textured paper, subtle magical chime."
@@ -164,13 +198,23 @@
           "camera": "Medium-wide slow dolly backward as the kids turn toward the forest line.",
           "voiceover": [],
           "dialogue": [
-            { "speaker": "LEO", "text": "The Valley Explorers are officially back on duty!" },
-            { "speaker": "MIA", "text": "Don't worry, Grandpa Tom. We'll be back before sunset!" },
-            { "speaker": "GRANDPA_TOM", "text": "Keep an eye on the compass, watch your footing by the river... and whatever you do, keep an eye on Bobo!" }
+            {
+              "speaker": "LEO",
+              "text": "The Valley Explorers are officially back on duty!"
+            },
+            {
+              "speaker": "MIA",
+              "text": "Don't worry, Grandpa Tom. We'll be back before sunset!"
+            },
+            {
+              "speaker": "GRANDPA_TOM",
+              "text": "Keep an eye on the compass, watch your footing by the river... and whatever you do, keep an eye on Bobo!"
+            }
           ],
           "sfx": "Compass lanyard clip snap, cheerful dog bark."
         }
-      ]
+      ],
+      "background": "assets/audio/bg/act_02.mp3"
     },
     {
       "id": "III",
@@ -185,8 +229,14 @@
           "camera": "Fast ground-level tracking shot chasing Bobo's fast-pattering legs and wagging tail.",
           "voiceover": [],
           "dialogue": [
-            { "speaker": "LEO", "text": "Bobo! Drop it! That's our map!" },
-            { "speaker": "MIA", "text": "Bobo! That is not a chew toy!" }
+            {
+              "speaker": "LEO",
+              "text": "Bobo! Drop it! That's our map!"
+            },
+            {
+              "speaker": "MIA",
+              "text": "Bobo! That is not a chew toy!"
+            }
           ],
           "sfx": "Frantic dog paws on grass, running sneaker thuds.",
           "music": "Playful xylophone chase music."
@@ -199,7 +249,10 @@
           "camera": "High-speed tracking pan matching Leo's slide and Mia's vault, locking onto Bobo.",
           "voiceover": [],
           "dialogue": [
-            { "speaker": "MIA", "text": "Bobo... look what I have! A crunchy liver biscuit!" }
+            {
+              "speaker": "MIA",
+              "text": "Bobo... look what I have! A crunchy liver biscuit!"
+            }
           ],
           "sfx": "Slide across grass, wooden gate latch rattle, panting puppy."
         },
@@ -211,7 +264,10 @@
           "camera": "Macro snap-zoom to Bobo's expressive face, rack-focusing to Leo grabbing the map.",
           "voiceover": [],
           "dialogue": [
-            { "speaker": "LEO", "text": "Good boy. Now you're the official tracker, not the map thief!" }
+            {
+              "speaker": "LEO",
+              "text": "Good boy. Now you're the official tracker, not the map thief!"
+            }
           ],
           "sfx": "Crunchy dog biscuit snap, happy puppy gulp, Leo laughing in relief."
         },
@@ -222,7 +278,10 @@
           "video_prompt": "3D Pixar style. Grand wide establishing crane shot. Leo in his blue hoodie, Mia in her yellow jacket, and fluffy Bobo step across the threshold into the Whispering Forest. Enormous ancient pine, birch, and oak trees rise like cathedral pillars. Shimmering golden sunbeams cut through emerald canopy mist with millions of drifting pollen motes. Bobo sniffs along a mossy dirt path. Camera sweeps upward through pine boughs.",
           "camera": "Majestic crane up through tree branches, showcasing the vast scale of the ancient forest.",
           "voiceover": [
-            { "speaker": "NARRATOR", "text": "The Whispering Forest was true to its name. The wind carried the rustle of leaves like ancient voices, guiding our brave explorers deeper into the unknown." }
+            {
+              "speaker": "NARRATOR",
+              "text": "The Whispering Forest was true to its name. The wind carried the rustle of leaves like ancient voices, guiding our brave explorers deeper into the unknown."
+            }
           ],
           "dialogue": [],
           "sfx": "Rustling wind in high pine needles, distant hooting owl, footsteps on soft moss."
@@ -235,8 +294,14 @@
           "camera": "Smooth backward tracking shot at children's eye-level, moving along the winding path.",
           "voiceover": [],
           "dialogue": [
-            { "speaker": "MIA", "text": "Leo, look! The compass needle shifted northwest! Right toward the trail markings!" },
-            { "speaker": "LEO", "text": "The map says: 'Follow the blue wings past the weeping willows.' She's leading us!" }
+            {
+              "speaker": "MIA",
+              "text": "Leo, look! The compass needle shifted northwest! Right toward the trail markings!"
+            },
+            {
+              "speaker": "LEO",
+              "text": "The map says: 'Follow the blue wings past the weeping willows.' She's leading us!"
+            }
           ],
           "sfx": "Butterfly flutter chime, soft puppy hops on moss, energetic footsteps."
         },
@@ -248,11 +313,15 @@
           "camera": "Over-the-shoulder push through willow vines, expanding into a grand panoramic canyon vista.",
           "voiceover": [],
           "dialogue": [
-            { "speaker": "LEO", "text": "Whoa! That is a lot faster than it looked on Grandpa's drawing!" }
+            {
+              "speaker": "LEO",
+              "text": "Whoa! That is a lot faster than it looked on Grandpa's drawing!"
+            }
           ],
           "sfx": "Roaring river rapids, crashing white water spray, gusting wind through canyon trees."
         }
-      ]
+      ],
+      "background": "assets/audio/bg/act_03.mp3"
     },
     {
       "id": "IV",
@@ -267,8 +336,14 @@
           "camera": "Low-angle tracking pan from the churning white-water rapids up the curve of the fallen redwood trunk.",
           "voiceover": [],
           "dialogue": [
-            { "speaker": "MIA", "text": "The wood is solid, but the moss is super slippery. We have to cross one by one!" },
-            { "speaker": "LEO", "text": "I'll go first to test the balance. Mia, keep a hand on Bobo's collar!" }
+            {
+              "speaker": "MIA",
+              "text": "The wood is solid, but the moss is super slippery. We have to cross one by one!"
+            },
+            {
+              "speaker": "LEO",
+              "text": "I'll go first to test the balance. Mia, keep a hand on Bobo's collar!"
+            }
           ],
           "sfx": "Violent roaring river rapids, water splashing against boulders, nervous dog whimper."
         },
@@ -280,7 +355,10 @@
           "camera": "Smooth tracking shot moving parallel to Leo across the fallen log bridge.",
           "voiceover": [],
           "dialogue": [
-            { "speaker": "LEO", "text": "It's good! Just step where the bark is dry! Mia, send Bobo across!" }
+            {
+              "speaker": "LEO",
+              "text": "It's good! Just step where the bark is dry! Mia, send Bobo across!"
+            }
           ],
           "sfx": "Roaring water beneath log, wind howling, wood creaking under footsteps."
         },
@@ -292,7 +370,10 @@
           "camera": "Low macro camera right in front of Bobo's nose, dollying backward as he crawls.",
           "voiceover": [],
           "dialogue": [
-            { "speaker": "LEO", "text": "Look at you! The world's bravest canine commando! Keep coming, Bobo!" }
+            {
+              "speaker": "LEO",
+              "text": "Look at you! The world's bravest canine commando! Keep coming, Bobo!"
+            }
           ],
           "sfx": "Claws scratching wet redwood bark, puppy snorting breaths, Leo's warm laughter."
         },
@@ -304,8 +385,14 @@
           "camera": "Fast whip-pan and snap-zoom to Leo's hands grasping Bobo above the churning torrent.",
           "voiceover": [],
           "dialogue": [
-            { "speaker": "LEO", "text": "Gotcha! I've got you, buddy! Don't look down!" },
-            { "speaker": "MIA", "text": "Leo!" }
+            {
+              "speaker": "LEO",
+              "text": "Gotcha! I've got you, buddy! Don't look down!"
+            },
+            {
+              "speaker": "MIA",
+              "text": "Leo!"
+            }
           ],
           "sfx": "Sharp puppy yelp, surging river roar, dramatic orchestral brass hit."
         },
@@ -317,7 +404,10 @@
           "camera": "Tracking shot following Leo stepping off the log onto solid ground, tilting down to Bobo.",
           "voiceover": [],
           "dialogue": [
-            { "speaker": "LEO", "text": "Safe! Come on over, Mia! Keep your eyes on the dry line!" }
+            {
+              "speaker": "LEO",
+              "text": "Safe! Come on over, Mia! Keep your eyes on the dry line!"
+            }
           ],
           "sfx": "Dog fur shake with water splatters, happy puppy bark, Leo sighing in relief."
         },
@@ -329,12 +419,19 @@
           "camera": "Smooth tracking shot following Mia's crossing, settling into a heroic three-shot.",
           "voiceover": [],
           "dialogue": [
-            { "speaker": "MIA", "text": "Valley Explorers: 1. Wild River: 0! Where to now?" },
-            { "speaker": "LEO", "text": "Right through those pines. Look... the entrance to the Whispering Cavern!" }
+            {
+              "speaker": "MIA",
+              "text": "Valley Explorers: 1. Wild River: 0! Where to now?"
+            },
+            {
+              "speaker": "LEO",
+              "text": "Right through those pines. Look... the entrance to the Whispering Cavern!"
+            }
           ],
           "sfx": "High-five hand slap, rustling pine branches, footsteps on grass."
         }
-      ]
+      ],
+      "background": "assets/audio/bg/act_04.mp3"
     },
     {
       "id": "V",
@@ -348,7 +445,10 @@
           "video_prompt": "3D Pixar style. Establishing wide shot. An imposing sixty-foot vertical limestone cliff covered in clinging ivy and twisted roots. At the base is a colossal arched cave opening shrouded in cool mist and deep purple shadows. Leo, Mia, and Bobo approach the dark entrance cautiously. Bobo sniffs the cool breeze billowing out from the cavern.",
           "camera": "Low-angle slow dolly forward, tilting up to accentuate the cliff's massive scale.",
           "voiceover": [
-            { "speaker": "NARRATOR", "text": "At the foot of the limestone cliffs, the trail ended at the legendary Whispering Cavern. But the ancient vault would not yield its secrets easily." }
+            {
+              "speaker": "NARRATOR",
+              "text": "At the foot of the limestone cliffs, the trail ended at the legendary Whispering Cavern. But the ancient vault would not yield its secrets easily."
+            }
           ],
           "dialogue": [],
           "sfx": "Cavern wind whistling like an eerie flute, hollow dripping water, rustling ivy."
@@ -361,7 +461,10 @@
           "camera": "180-degree smooth arc shot around the children bathed in cyan moss glow.",
           "voiceover": [],
           "dialogue": [
-            { "speaker": "LEO", "text": "A puzzle door! Grandpa Tom wasn't kidding. Look at these carvings!" }
+            {
+              "speaker": "LEO",
+              "text": "A puzzle door! Grandpa Tom wasn't kidding. Look at these carvings!"
+            }
           ],
           "sfx": "Deep cavern echo, stone surface touch, soft electrical bioluminescent hum."
         },
@@ -373,8 +476,14 @@
           "camera": "Macro rack-focus from the carved stone socket to the gleaming compass in Mia's hands.",
           "voiceover": [],
           "dialogue": [
-            { "speaker": "MIA", "text": "Leo! The compass isn't just for navigation... it's the key to the lock! Look at the notches!" },
-            { "speaker": "LEO", "text": "Try it! Put it in the center socket!" }
+            {
+              "speaker": "MIA",
+              "text": "Leo! The compass isn't just for navigation... it's the key to the lock! Look at the notches!"
+            },
+            {
+              "speaker": "LEO",
+              "text": "Try it! Put it in the center socket!"
+            }
           ],
           "sfx": "Compass brass clinking, soft cavern drip echo."
         },
@@ -386,8 +495,14 @@
           "camera": "Upward tilt from the glowing compass socket to the luminous riddle above the arch.",
           "voiceover": [],
           "dialogue": [
-            { "speaker": "MIA", "text": "First shines the dawn... then comes the night... the star burns last with endless light." },
-            { "speaker": "LEO", "text": "Dawn, night, star? Does dawn mean the Sun?" }
+            {
+              "speaker": "MIA",
+              "text": "First shines the dawn... then comes the night... the star burns last with endless light."
+            },
+            {
+              "speaker": "LEO",
+              "text": "Dawn, night, star? Does dawn mean the Sun?"
+            }
           ],
           "sfx": "Heavy mechanical lock clunk, stone gears grinding, resonant golden magical chime."
         },
@@ -399,8 +514,14 @@
           "camera": "Dynamic low-angle tracking shot as Mia maneuvers the heavy stone ring.",
           "voiceover": [],
           "dialogue": [
-            { "speaker": "MIA", "text": "Dawn is the SUN! That has to be first!" },
-            { "speaker": "LEO", "text": "It locked in! One down, two to go!" }
+            {
+              "speaker": "MIA",
+              "text": "Dawn is the SUN! That has to be first!"
+            },
+            {
+              "speaker": "LEO",
+              "text": "It locked in! One down, two to go!"
+            }
           ],
           "sfx": "Heavy granite friction, stone lock KA-CHUNK, golden harmonic chime."
         },
@@ -412,7 +533,10 @@
           "camera": "Close-up on Leo and Mia's determined, smiling faces illuminated by golden light.",
           "voiceover": [],
           "dialogue": [
-            { "speaker": "LEO", "text": "Then comes the night! That's the Moon! Mia, the last one is the Star!" }
+            {
+              "speaker": "LEO",
+              "text": "Then comes the night! That's the Moon! Mia, the last one is the Star!"
+            }
           ],
           "sfx": "Grinding granite gears, mechanical locking thud, dog yips."
         },
@@ -424,11 +548,15 @@
           "camera": "Dramatic camera pull-back as the massive circular door unfolds into the walls.",
           "voiceover": [],
           "dialogue": [
-            { "speaker": "LEO_AND_MIA", "text": "WE DID IT!" }
+            {
+              "speaker": "LEO_AND_MIA",
+              "text": "WE DID IT!"
+            }
           ],
           "sfx": "Deep tectonic bass rumble, sliding stone doors, triumphant orchestral fanfare crescendo, puppy barking joyfully."
         }
-      ]
+      ],
+      "background": "assets/audio/bg/act_05.mp3"
     },
     {
       "id": "VI",
@@ -443,7 +571,10 @@
           "camera": "Sweeping circular pedestal tracking shot around the illuminated treasure chest.",
           "voiceover": [],
           "dialogue": [
-            { "speaker": "MIA", "text": "Grandpa's treasure... It really was here the whole time!" }
+            {
+              "speaker": "MIA",
+              "text": "Grandpa's treasure... It really was here the whole time!"
+            }
           ],
           "sfx": "Ethereal vocal choir hum, gentle cave water drops, quiet footsteps on stone."
         },
@@ -455,7 +586,10 @@
           "camera": "Handheld shaky camera, fast zoom-in on cracking ceiling, whip-pan to crashing boulder.",
           "voiceover": [],
           "dialogue": [
-            { "speaker": "LEO", "text": "THE CEILING IS COMING DOWN! GRAB THE CHEST!" }
+            {
+              "speaker": "LEO",
+              "text": "THE CEILING IS COMING DOWN! GRAB THE CHEST!"
+            }
           ],
           "sfx": "Massive tectonic boom, shattering limestone, crashing rocks, terrified dog whimper."
         },
@@ -467,8 +601,14 @@
           "camera": "Rapid backward tracking shot running ahead of the kids, whipping 180 degrees to show the blocked door.",
           "voiceover": [],
           "dialogue": [
-            { "speaker": "MIA", "text": "THE ENTRANCE IS BLOCKED! WE'RE TRAPPED!" },
-            { "speaker": "LEO", "text": "There has to be another way out! Keep moving!" }
+            {
+              "speaker": "MIA",
+              "text": "THE ENTRANCE IS BLOCKED! WE'RE TRAPPED!"
+            },
+            {
+              "speaker": "LEO",
+              "text": "There has to be another way out! Keep moving!"
+            }
           ],
           "sfx": "Deafening rockfall crash, billowing dust coughs, heavy running footsteps."
         },
@@ -480,7 +620,11 @@
           "camera": "Ground-level tracking shot of Bobo leaping, clamping jaws onto vine lever, pulling downward.",
           "voiceover": [],
           "dialogue": [
-            { "speaker": "BOBO", "text": "Grrr-rr-YANK!", "audio": false }
+            {
+              "speaker": "BOBO",
+              "text": "Grrr-rr-YANK!",
+              "audio": false
+            }
           ],
           "sfx": "Puppy growl through teeth, heavy iron counterweights sliding inside stone."
         },
@@ -492,8 +636,14 @@
           "camera": "Sweeping pan from the open secret tunnel over to the running kids carrying the chest.",
           "voiceover": [],
           "dialogue": [
-            { "speaker": "MIA", "text": "LEO! LOOK AT BOBO! HE FOUND A SECRET EXIT!" },
-            { "speaker": "LEO", "text": "RUN! RUN! RUN!" }
+            {
+              "speaker": "MIA",
+              "text": "LEO! LOOK AT BOBO! HE FOUND A SECRET EXIT!"
+            },
+            {
+              "speaker": "LEO",
+              "text": "RUN! RUN! RUN!"
+            }
           ],
           "sfx": "Stone wall sliding open, puppy barking urgently, collapsing cave rumbles behind them."
         },
@@ -505,12 +655,19 @@
           "camera": "Slow-motion tracking shot exiting the dark cave into sunlit green meadow.",
           "voiceover": [],
           "dialogue": [
-            { "speaker": "LEO", "text": "We made it... We actually made it!" },
-            { "speaker": "MIA", "text": "You brilliant, brave little dog! You saved us!" }
+            {
+              "speaker": "LEO",
+              "text": "We made it... We actually made it!"
+            },
+            {
+              "speaker": "MIA",
+              "text": "You brilliant, brave little dog! You saved us!"
+            }
           ],
           "sfx": "Dust puff whoosh, collapsing cavern rumble fading, happy dog panting, deep relieved breaths."
         }
-      ]
+      ],
+      "background": "assets/audio/bg/act_06.mp3"
     },
     {
       "id": "VII",
@@ -536,7 +693,10 @@
           "camera": "Macro floating shot gliding over vintage photographs, handwritten journal, and toy boat.",
           "voiceover": [],
           "dialogue": [
-            { "speaker": "LEO", "text": "Wait... There's no gold? No jewels? No coins?" }
+            {
+              "speaker": "LEO",
+              "text": "Wait... There's no gold? No jewels? No coins?"
+            }
           ],
           "sfx": "Paper rustling, glass marbles clinking gently."
         },
@@ -548,8 +708,14 @@
           "camera": "Macro focus on vintage photo, tilting smoothly up to Mia's emotional, tender face.",
           "voiceover": [],
           "dialogue": [
-            { "speaker": "MIA", "text": "Leo... look at this picture. Look at his glasses. Look at that smile." },
-            { "speaker": "LEO", "text": "Grandpa Tom... That's Grandpa when he was our age!" }
+            {
+              "speaker": "MIA",
+              "text": "Leo... look at this picture. Look at his glasses. Look at that smile."
+            },
+            {
+              "speaker": "LEO",
+              "text": "Grandpa Tom... That's Grandpa when he was our age!"
+            }
           ],
           "sfx": "Soft breeze, birds settling at dusk."
         },
@@ -561,8 +727,14 @@
           "camera": "Slow 360-degree circular emotional arc shot around the children in the glowing meadow.",
           "voiceover": [],
           "dialogue": [
-            { "speaker": "MIA", "text": "They didn't hide gold, Leo. They hid their memories. Every adventure they ever had... they kept it safe right here." },
-            { "speaker": "LEO", "text": "This was their treasure. It wasn't about getting rich. It was about remembering who they were." }
+            {
+              "speaker": "MIA",
+              "text": "They didn't hide gold, Leo. They hid their memories. Every adventure they ever had... they kept it safe right here."
+            },
+            {
+              "speaker": "LEO",
+              "text": "This was their treasure. It wasn't about getting rich. It was about remembering who they were."
+            }
           ],
           "sfx": "Journal page turning, gentle evening crickets."
         },
@@ -573,12 +745,16 @@
           "video_prompt": "3D Pixar style. Wide silhouette shot. Against a peach-and-violet dusk sky, Leo and Mia walk down the meadow trail carrying the chest together. Ahead of them, fluffy Bobo proudly trots like a retriever, carrying the carved wooden toy sailboat gently in his mouth by its mast. Wide backward tracking shot moving along the valley path.",
           "camera": "Wide backward tracking shot moving along the valley trail at sunset.",
           "voiceover": [
-            { "speaker": "NARRATOR", "text": "The greatest discoveries aren't always made of gold and silver. Sometimes, the rarest treasure of all... is simply the stories we leave behind." }
+            {
+              "speaker": "NARRATOR",
+              "text": "The greatest discoveries aren't always made of gold and silver. Sometimes, the rarest treasure of all... is simply the stories we leave behind."
+            }
           ],
           "dialogue": [],
           "sfx": "Sneaker steps on gravel, evening crickets, dog collar tag jingle."
         }
-      ]
+      ],
+      "background": "assets/audio/bg/act_07.mp3"
     },
     {
       "id": "VIII",
@@ -593,7 +769,10 @@
           "camera": "Medium shot pushing in toward Grandpa Tom's relieved, astonished face.",
           "voiceover": [],
           "dialogue": [
-            { "speaker": "GRANDPA_TOM", "text": "You... you actually found it. You brought it back." }
+            {
+              "speaker": "GRANDPA_TOM",
+              "text": "You... you actually found it. You brought it back."
+            }
           ],
           "sfx": "Wooden chest placed on table, porch boards creaking, gentle evening ambience."
         },
@@ -605,7 +784,10 @@
           "camera": "Intimate close-up on Grandpa Tom, rack-focusing to Leo and Mia smiling up at him.",
           "voiceover": [],
           "dialogue": [
-            { "speaker": "GRANDPA_TOM", "text": "My old sailboat... Billy, Arthur, Jack, and me. We swore that no matter how old we grew, this chest would hold our friendship forever." }
+            {
+              "speaker": "GRANDPA_TOM",
+              "text": "My old sailboat... Billy, Arthur, Jack, and me. We swore that no matter how old we grew, this chest would hold our friendship forever."
+            }
           ],
           "sfx": "Wooden toy handled gently, soft emotional music swell."
         },
@@ -617,8 +799,14 @@
           "camera": "Slow, heartwarming dolly-in on the family embrace under glowing lantern light.",
           "voiceover": [],
           "dialogue": [
-            { "speaker": "LEO", "text": "At first, I was looking for gold, Grandpa. But this is worth way more than anything shiny." },
-            { "speaker": "GRANDPA_TOM", "text": "That's the secret, Leo. The gold was the journey you two took today. The laughter, the courage, and the memories you made together." }
+            {
+              "speaker": "LEO",
+              "text": "At first, I was looking for gold, Grandpa. But this is worth way more than anything shiny."
+            },
+            {
+              "speaker": "GRANDPA_TOM",
+              "text": "That's the secret, Leo. The gold was the journey you two took today. The laughter, the courage, and the memories you made together."
+            }
           ],
           "sfx": "Warm laughter, gentle porch wind chimes."
         },
@@ -630,11 +818,15 @@
           "camera": "Whip-pan down to rolling marbles, then tilting up to the laughing family.",
           "voiceover": [],
           "dialogue": [
-            { "speaker": "GRANDPA_TOM", "text": "Bobo! Some things never change — our old dog Barnaby knocked over the exact same marbles fifty years ago!" }
+            {
+              "speaker": "GRANDPA_TOM",
+              "text": "Bobo! Some things never change — our old dog Barnaby knocked over the exact same marbles fifty years ago!"
+            }
           ],
           "sfx": "Marbles clattering across wooden floorboards, dog tail thumping, loud family laughter."
         }
-      ]
+      ],
+      "background": "assets/audio/bg/act_08.mp3"
     },
     {
       "id": "IX",
@@ -670,8 +862,14 @@
           "camera": "Over-the-shoulder push past the children toward the distant glowing blue mountain.",
           "voiceover": [],
           "dialogue": [
-            { "speaker": "MIA", "text": "The adventure isn't over." },
-            { "speaker": "LEO", "text": "It's just getting started." }
+            {
+              "speaker": "MIA",
+              "text": "The adventure isn't over."
+            },
+            {
+              "speaker": "LEO",
+              "text": "It's just getting started."
+            }
           ],
           "sfx": "Low magical sonic pulse reverberating through the valley."
         },
@@ -686,7 +884,8 @@
           "graphics": "Glowing golden 3D text centered: \"TO BE CONTINUED...\"",
           "sfx": "Full orchestral adventure fanfare hitting a thrilling crescendo, final mystical chime, fade to silence."
         }
-      ]
+      ],
+      "background": "assets/audio/bg/act_09.mp3"
     }
   ]
 }

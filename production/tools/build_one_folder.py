@@ -96,10 +96,18 @@ for act in film["acts"]:
                 else:
                     missing.append(f"{sid}/{sid}_{slug}.mp3")
 
+# background sound: per-act ambience beds + full master score
+bg_src_dir = os.path.join(ROOT, "assets", "audio", "bg")
+bg_count = 0
+if os.path.isdir(bg_src_dir):
+    bg_dst = os.path.join(FILM_DIR, "background")
+    shutil.copytree(bg_src_dir, bg_dst)
+    bg_count = len([f for f in os.listdir(bg_dst) if f.lower().endswith((".mp3", ".wav"))])
+
 out += [
     "",
     "-" * 58,
-    f"TOTALS: {pics} pictures, {clips} audio clips, 48 part-folders",
+    f"TOTALS: {pics} pictures, {clips} audio clips, 48 part-folders, {bg_count} background tracks",
 ]
 if missing:
     out.append(f"MISSING: {', '.join(missing)}")
