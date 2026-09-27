@@ -243,6 +243,19 @@ details.prompt-box .prompt-text {
 .copy-btn:hover { background: rgba(245, 185, 66, 0.25); }
 .copy-btn.copied { background: var(--gold); color: #062033; }
 
+/* ---------------- voice indicators on pictures ---------------- */
+.shot-voices {
+  position: absolute; bottom: 10px; left: 10px; right: 10px; z-index: 5;
+  display: flex; flex-wrap: wrap; gap: 5px; pointer-events: none;
+}
+.shot-voices .speaker {
+  background: rgba(5, 8, 14, 0.78); backdrop-filter: blur(4px);
+  font-size: 0.58rem; padding: 2px 8px;
+}
+
+.cast-card .voice-sample { margin-top: 10px; width: 100%; padding: 8px 10px; font-size: 0.78rem; }
+.cast-card .voice { margin-top: 10px; }
+
 /* ---------------- footer ---------------- */
 .footer { border-top: 1px solid var(--card-edge); padding: 26px 24px 40px; text-align: center; color: var(--ink-dim); }
 

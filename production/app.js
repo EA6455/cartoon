@@ -106,17 +106,28 @@ function renderCast() {
   for (const c of FILM.characters) {
     const card = document.createElement('div');
     card.className = 'cast-card';
-    const voice = c.id === 'BOBO'
-      ? '<span class="voice sp-BOBO">🐶 SFX only — barks &amp; growls</span>'
-      : `<span class="voice sp-${c.id}">${VOICE_NOTES[SPEAKER_SLUGS[c.id][0]]}</span>`;
+    let voiceHtml;
+    if (c.id === 'BOBO') {
+      voiceHtml = '<span class="voice sp-BOBO">🐶 SFX only — barks &amp; growls</span>';
+    } else {
+      const slug = SPEAKER_SLUGS[c.id][0];
+      voiceHtml = `
+        <span class="voice sp-${c.id}">🎙 ${VOICE_NOTES[slug]}</span>
+        <button class="play-btn voice-sample" data-urls='["${VOICE_SAMPLES[slug]}"]'>🔊 Hear this voice</button>`;
+    }
     card.innerHTML = `
       <img src="${c.sheet}" alt="${c.name} character reference sheet" loading="lazy"
            onerror="this.replaceWith(Object.assign(document.createElement('div'),{className:'shot-placeholder',innerHTML:'<div class=\\'icon\\'>🎨</div><div class=\\'lbl\\'>sheet pending</div>'}))">
       <div class="cast-body">
         <h5>${c.name}<span class="who">${c.id.replace('_', ' ')}</span></h5>
+        ${voiceHtml}
         <p>${c.description}</p>
-        ${voice}
       </div>`;
+    const sampleBtn = card.querySelector('.voice-sample');
+    if (sampleBtn) {
+      const url = JSON.parse(sampleBtn.dataset.urls)[0];
+      exists(url).then((ok) => { if (!ok) sampleBtn.disabled = true; });
+    }
     grid.appendChild(card);
   }
 }
