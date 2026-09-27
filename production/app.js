@@ -355,6 +355,37 @@ function shotCard(shot) {
 
   card.appendChild(media);
 
+  /* ---- this picture's own audio files, directly under the picture ---- */
+  const audioStrip = document.createElement('div');
+  audioStrip.className = 'audio-strip';
+  const audioFiles = [];
+  for (const l of lines) {
+    for (const slug of SPEAKER_SLUGS[l.speaker] || []) {
+      audioFiles.push({ slug, url: audioFile(shot.id, slug) });
+    }
+  }
+  if (audioFiles.length) {
+    const lab = document.createElement('span');
+    lab.className = 'audio-strip-label';
+    lab.textContent = `🎧 This picture's audio (${audioFiles.length})`;
+    audioStrip.appendChild(lab);
+    for (const f of audioFiles) {
+      const b = document.createElement('button');
+      b.className = 'play-btn audio-file-btn';
+      b.dataset.urls = JSON.stringify([f.url]);
+      b.title = f.url;
+      b.textContent = `▶ shot_${pad2(shot.id)}_${f.slug}.mp3`;
+      exists(f.url).then((ok) => { if (!ok) b.disabled = true; });
+      audioStrip.appendChild(b);
+    }
+  } else {
+    const none = document.createElement('span');
+    none.className = 'audio-strip-none';
+    none.textContent = '🎧 No spoken audio in this picture — SFX / music only';
+    audioStrip.appendChild(none);
+  }
+  card.appendChild(audioStrip);
+
   /* ---- body ---- */
   const body = document.createElement('div');
   body.className = 'shot-body';

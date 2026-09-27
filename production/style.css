@@ -330,6 +330,22 @@ body.editing .shot-card { border-color: rgba(245, 185, 66, 0.4); border-style: d
 .meta-edit-field { display: grid; grid-template-columns: 70px 1fr; gap: 8px; align-items: center; }
 .meta-edit-field span { font-size: 0.66rem; color: var(--ink-dim); letter-spacing: 0.1em; font-weight: 700; }
 
+/* ---- audio files strip under each picture ---- */
+.audio-strip {
+  display: flex; flex-wrap: wrap; align-items: center; gap: 6px;
+  background: #0c1119; border-bottom: 1px solid var(--card-edge);
+  padding: 8px 12px;
+}
+.audio-strip-label {
+  font-size: 0.62rem; letter-spacing: 0.1em; text-transform: uppercase;
+  color: var(--ink-dim); font-weight: 700; margin-right: 4px;
+}
+.audio-file-btn {
+  font-family: 'JetBrains Mono', ui-monospace, monospace;
+  font-size: 0.66rem; padding: 4px 9px;
+}
+.audio-strip-none { font-size: 0.7rem; color: #4a5a72; font-style: italic; }
+
 /* ---------------- footer ---------------- */
 .footer { border-top: 1px solid var(--card-edge); padding: 26px 24px 40px; text-align: center; color: var(--ink-dim); }
 
