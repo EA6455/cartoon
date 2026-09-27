@@ -256,6 +256,80 @@ details.prompt-box .prompt-text {
 .cast-card .voice-sample { margin-top: 10px; width: 100%; padding: 8px 10px; font-size: 0.78rem; }
 .cast-card .voice { margin-top: 10px; }
 
+/* ---------------- control buttons & edit mode ---------------- */
+.ctl-btn {
+  border: 1px solid var(--card-edge); background: var(--card); color: var(--ink-dim);
+  border-radius: 999px; padding: 10px 16px; font-size: 0.8rem; font-weight: 700;
+  cursor: pointer; font-family: inherit; white-space: nowrap; transition: all 0.14s ease;
+}
+.ctl-btn:hover { color: var(--ink); border-color: var(--gold); }
+.ctl-btn.active { background: var(--gold-soft); color: var(--gold); border-color: rgba(245, 185, 66, 0.55); }
+.ctl-btn.gold { color: var(--gold); border-color: rgba(245, 185, 66, 0.4); }
+.ctl-btn.danger:hover { color: var(--red); border-color: rgba(255, 122, 110, 0.5); }
+
+.save-status { font-size: 0.72rem; color: var(--green); opacity: 0; transition: opacity 0.25s ease; }
+.save-status.show { opacity: 1; }
+
+.edit-hint {
+  max-width: 1280px; margin: 10px auto 0; padding: 0 24px;
+  font-size: 0.8rem; color: var(--ink-dim); display: none;
+}
+body.editing .edit-hint { display: block; }
+.edit-hint b { color: var(--gold); }
+
+/* ---- play-whole-shot button on the picture ---- */
+.media-play {
+  position: absolute; right: 10px; bottom: 10px; z-index: 6;
+  width: 46px; height: 46px; border-radius: 50%;
+  background: rgba(5, 8, 14, 0.78); border: 1.5px solid rgba(245, 185, 66, 0.65);
+  color: var(--gold); font-size: 1.05rem; cursor: pointer; backdrop-filter: blur(4px);
+  display: flex; align-items: center; justify-content: center; transition: all 0.15s ease;
+}
+.media-play:hover:not(:disabled) { background: var(--gold); color: #062033; transform: scale(1.06); }
+.media-play.playing { background: var(--gold); color: #062033; }
+.media-play:disabled { opacity: 0.3; cursor: default; }
+
+/* ---- edit inputs ---- */
+.edit-input, .edit-area, .edit-select {
+  width: 100%; background: var(--bg-soft); border: 1px dashed rgba(245, 185, 66, 0.45);
+  color: var(--ink); border-radius: 8px; padding: 7px 10px;
+  font-family: inherit; font-size: 0.85rem; outline: none;
+}
+.edit-area { resize: vertical; line-height: 1.5; }
+.edit-input:focus, .edit-area:focus, .edit-select:focus { border-style: solid; border-color: var(--gold); }
+.edit-select { padding: 5px 8px; font-size: 0.72rem; font-weight: 700; }
+
+body.editing .shot-card { border-color: rgba(245, 185, 66, 0.4); border-style: dashed; }
+
+.edited-flag { margin-left: 10px; font-size: 0.62rem; color: var(--green); font-weight: 600; }
+.reflag-badge {
+  display: inline-block; margin-left: 8px; font-size: 0.6rem; color: var(--red);
+  border: 1px solid rgba(255, 122, 110, 0.5); padding: 1px 7px; border-radius: 999px;
+  vertical-align: middle; font-weight: 700;
+}
+
+.line-edit { display: grid; grid-template-columns: 140px 1fr auto; gap: 8px; align-items: start; }
+.line-tools { display: flex; flex-direction: column; gap: 6px; align-items: center; }
+.reflag { font-size: 0.8rem; color: var(--ink-dim); display: flex; gap: 5px; align-items: center; cursor: pointer; }
+.reflag input { accent-color: var(--red); cursor: pointer; }
+.line-del {
+  border: 1px solid rgba(255, 122, 110, 0.4); background: transparent; color: var(--red);
+  border-radius: 7px; width: 26px; height: 26px; cursor: pointer; font-size: 0.75rem; line-height: 1;
+}
+.line-del:hover { background: rgba(255, 122, 110, 0.15); }
+
+.add-line-row { display: flex; gap: 8px; }
+.add-line {
+  border: 1px dashed var(--card-edge); background: transparent; color: var(--ink-dim);
+  border-radius: 8px; padding: 7px 12px; font-size: 0.74rem; font-weight: 700; cursor: pointer;
+  font-family: inherit; transition: all 0.14s ease;
+}
+.add-line:hover { color: var(--gold); border-color: rgba(245, 185, 66, 0.5); }
+
+.meta-edit { display: grid; gap: 8px; }
+.meta-edit-field { display: grid; grid-template-columns: 70px 1fr; gap: 8px; align-items: center; }
+.meta-edit-field span { font-size: 0.66rem; color: var(--ink-dim); letter-spacing: 0.1em; font-weight: 700; }
+
 /* ---------------- footer ---------------- */
 .footer { border-top: 1px solid var(--card-edge); padding: 26px 24px 40px; text-align: center; color: var(--ink-dim); }
 

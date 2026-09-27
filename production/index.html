@@ -63,8 +63,13 @@
 
 <div class="controls">
   <input id="search" type="search" placeholder="🔎 Search shots, dialogue, prompts, SFX…" autocomplete="off">
+  <button id="edit-toggle" class="ctl-btn" type="button">✏️ Edit mode</button>
+  <button id="export-btn" class="ctl-btn gold" type="button" title="Download film.json with your edits applied">⬇ Export film.json</button>
+  <button id="clear-edits" class="ctl-btn danger" type="button">🗑 Reset edits</button>
+  <span id="save-status" class="save-status">💾 saved locally</span>
   <span id="match-count" class="match-count"></span>
 </div>
+<p id="edit-hint" class="edit-hint">✏️ <b>Edit mode is ON</b> — click any title, prompt, camera note, SFX or dialogue line to rewrite it; change the voice with the dropdown; check <b>↻</b> to flag a line for re-recording. Changes auto-save in this browser. Use <b>⬇ Export film.json</b> to get the updated file, then tell the agent to apply it &amp; re-record flagged lines.</p>
 
 <main id="acts"></main>
 

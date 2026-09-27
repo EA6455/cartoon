@@ -56,6 +56,23 @@ placeholders and appear automatically once rendered.
 | Grandpa Tom | `voice-03` | masculine, narration |
 | Bobo | — | puppy vocalizations are SFX, not spoken lines |
 
+## ✏️ Editing in the browser
+
+The site has a built-in **Edit mode** (button in the controls bar):
+
+- Rewrite any shot **title, video prompt, camera note, SFX/MUSIC/GRAPHICS** inline.
+- Edit **dialogue / voiceover lines**, switch the **speaker** (voice) per line, add or remove lines.
+- Check **↻** on a line to flag it for re-recording.
+- Changes auto-save in your browser (localStorage). **⬇ Export film.json** downloads the
+  updated master data — commit it over `data/film.json` (or hand it to the agent) and the
+  board + prompt files update from it. Flagged lines are exported with `"rerecord": true`
+  so the agent knows exactly which audio clips to regenerate.
+- 🗑 **Reset edits** discards local changes and reloads the original data.
+
+Audio clips follow the naming convention `assets/audio/shot_XX_speaker.mp3`
+(`speaker` ∈ narrator / leo / mia / grandpa). If you change a line's speaker or text,
+flag it ↻ and it will be re-recorded into the right file on the next generation pass.
+
 ## Rebuild prompt files
 
 ```bash
