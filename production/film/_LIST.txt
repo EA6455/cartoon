@@ -4,10 +4,13 @@ Layout: film/shot_01/ … film/shot_48/  (one folder per part)
 Each part-folder: PICTURE first, then ALL AUDIO lines for that picture.
 Picture naming : shot_XX/shot_XX.jpg
 Audio naming   : shot_XX/shot_XX_<speaker>.mp3  (narrator / leo / mia / grandpa)
+Background     : background/act_01..09.mp3  (per-act ambience bed)
+                 background/background_full.mp3  (full 10:00 score)
 
 
 ACT I — THE DISCOVERY IN THE TREEHOUSE  (0:00 - 0:45)
 ----------------------------------------------------------
+    [BACKGROUND] background/act_01.mp3   (this act's ambience)
 
 SHOT_01  —  Above the Backyard  [0:00 - 0:07]
     [PICTURE]  shot_01/shot_01.jpg
@@ -33,6 +36,7 @@ SHOT_05  —  The Red X  [0:34 - 0:45]
 
 ACT II — GRANDPA EXPLAINS THE MAP  (0:45 - 1:40)
 ----------------------------------------------------------
+    [BACKGROUND] background/act_02.mp3   (this act's ambience)
 
 SHOT_06  —  Kids Crash the Porch  [0:45 - 0:54]
     [PICTURE]  shot_06/shot_06.jpg
@@ -59,6 +63,7 @@ SHOT_10  —  Back on Duty  [1:28 - 1:40]
 
 ACT III — ENTERING THE FOREST  (1:40 - 3:00)
 ----------------------------------------------------------
+    [BACKGROUND] background/act_03.mp3   (this act's ambience)
 
 SHOT_11  —  Bobo Steals the Map  [1:40 - 1:52]
     [PICTURE]  shot_11/shot_11.jpg
@@ -88,6 +93,7 @@ SHOT_16  —  The River Canyon Reveal  [2:45 - 3:00]
 
 ACT IV — CROSSING THE RIVER  (3:00 - 4:20)
 ----------------------------------------------------------
+    [BACKGROUND] background/act_04.mp3   (this act's ambience)
 
 SHOT_17  —  The Fallen Redwood Bridge  [3:00 - 3:12]
     [PICTURE]  shot_17/shot_17.jpg
@@ -118,6 +124,7 @@ SHOT_22  —  Valley Explorers: 1, River: 0  [4:05 - 4:20]
 
 ACT V — THE CAVE PUZZLE  (4:20 - 6:00)
 ----------------------------------------------------------
+    [BACKGROUND] background/act_05.mp3   (this act's ambience)
 
 SHOT_23  —  The Whispering Cavern  [4:20 - 4:32]
     [PICTURE]  shot_23/shot_23.jpg
@@ -153,6 +160,7 @@ SHOT_29  —  The Star Burns Last  [5:40 - 6:00]
 
 ACT VI — CAVE COLLAPSE AND ESCAPE  (6:00 - 7:15)
 ----------------------------------------------------------
+    [BACKGROUND] background/act_06.mp3   (this act's ambience)
 
 SHOT_30  —  The Inner Vault  [6:00 - 6:15]
     [PICTURE]  shot_30/shot_30.jpg
@@ -183,6 +191,7 @@ SHOT_35  —  Into the Sunshine  [7:05 - 7:15]
 
 ACT VII — DISCOVERING THE REAL TREASURE  (7:15 - 8:45)
 ----------------------------------------------------------
+    [BACKGROUND] background/act_07.mp3   (this act's ambience)
 
 SHOT_36  —  Opening the Chest  [7:15 - 7:28]
     [PICTURE]  shot_36/shot_36.jpg
@@ -208,6 +217,7 @@ SHOT_40  —  Stories We Leave Behind  [8:18 - 8:32]
 
 ACT VIII — GRANDPA EXPLAINS THE MEMORIES  (8:45 - 9:35)
 ----------------------------------------------------------
+    [BACKGROUND] background/act_08.mp3   (this act's ambience)
 
 SHOT_41  —  Home at Twilight  [8:45 - 8:58]
     [PICTURE]  shot_41/shot_41.jpg
@@ -228,6 +238,7 @@ SHOT_44  —  The Marble Catastrophe  [9:25 - 9:35]
 
 ACT IX — THE MYSTERIOUS COMPASS & CLIFFHANGER  (9:35 - 10:00)
 ----------------------------------------------------------
+    [BACKGROUND] background/act_09.mp3   (this act's ambience)
 
 SHOT_45  —  Midnight Treehouse  [9:35 - 9:44]
     [PICTURE]  shot_45/shot_45.jpg

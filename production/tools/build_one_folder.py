@@ -48,16 +48,21 @@ out = [
     "Each part-folder: PICTURE first, then ALL AUDIO lines for that picture.",
     "Picture naming : shot_XX/shot_XX.jpg",
     "Audio naming   : shot_XX/shot_XX_<speaker>.mp3  (narrator / leo / mia / grandpa)",
+    "Background     : background/act_01..09.mp3  (per-act ambience bed)",
+    "                 background/background_full.mp3  (full 10:00 score)",
     "",
 ]
 
 pics = clips = 0
 missing = []
 
-for act in film["acts"]:
+for ai, act in enumerate(film["acts"], 1):
     out.append("")
     out.append(f"ACT {act['id']} — {act['title'].upper()}  ({act['time']})")
     out.append("-" * 58)
+    bg_name = f"act_{ai:02d}.mp3"
+    if os.path.exists(os.path.join(ROOT, "assets", "audio", "bg", bg_name)):
+        out.append(f"    [BACKGROUND] background/{bg_name}   (this act's ambience)")
     for s in act["shots"]:
         sid = f"shot_{s['id']:02d}"
         part_dir = os.path.join(FILM_DIR, sid)

@@ -580,6 +580,15 @@ function renderActs() {
       <span class="act-num">ACT ${act.id}</span>
       <span class="act-title">${act.title}</span>
       <span class="act-time">${act.time} · ${act.shots.length} shots</span>`;
+    if (act.background) {
+      const bgBtn = document.createElement('button');
+      bgBtn.className = 'play-btn act-bg';
+      bgBtn.dataset.urls = JSON.stringify([act.background]);
+      bgBtn.title = "Play this act's background ambience";
+      bgBtn.textContent = '🎵 ambience';
+      exists(act.background).then((ok) => { if (!ok) bgBtn.disabled = true; });
+      head.appendChild(bgBtn);
+    }
     sec.appendChild(head);
 
     const grid = document.createElement('div');
