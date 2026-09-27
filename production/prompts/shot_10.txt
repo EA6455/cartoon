@@ -1,0 +1,20 @@
+SHOT 10 — BACK ON DUTY  [1:28 - 1:40]
+ACT II: GRANDPA EXPLAINS THE MAP (0:45 - 1:40)
+
+[STYLE ANCHOR]
+3D stylized Pixar feature animation style, Disney adventure aesthetic, volumetric atmospheric lighting, rich saturated colors, subsurface scattering on skin, expressive stylized cartoon faces, natural body movement, detailed fabric weave and nature textures, cinematic composition, smooth 24fps motion blur, 16:9 widescreen, 4K render aesthetic.
+
+[VIDEO PROMPT]
+3D Pixar style. Medium wide shot. Leo pumps his fist into the air with energetic determination. Mia fastens the golden compass securely to her yellow windbreaker zipper with a confident smile. Grandpa Tom stands up tall and warm, resting one hand on Leo's shoulder and patting Mia's head. Bobo wags his tail eagerly at their feet.
+
+[CAMERA]
+Medium-wide slow dolly backward as the kids turn toward the forest line.
+
+[DIALOGUE - LEO]: "The Valley Explorers are officially back on duty!"
+[DIALOGUE - MIA]: "Don't worry, Grandpa Tom. We'll be back before sunset!"
+[DIALOGUE - GRANDPA_TOM]: "Keep an eye on the compass, watch your footing by the river... and whatever you do, keep an eye on Bobo!"
+
+[SFX]: Compass lanyard clip snap, cheerful dog bark.
+
+[NEGATIVE PROMPT]
+live action, realistic human photo, photorealistic, 2D flat drawing, sketch, anime style, deformed limbs, extra fingers, missing limbs, distorted face, still slideshow, static characters, blurry background textures, low resolution, bad anatomy, frame stutter.

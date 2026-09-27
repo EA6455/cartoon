@@ -1,0 +1,692 @@
+{
+  "title": "The Secret Map in the Treehouse",
+  "subtitle": "Master AI Video Generation Batch File",
+  "total_duration": "10:00",
+  "shot_count": 48,
+  "aspect_ratio": "16:9",
+  "resolution": "4K / 1080P",
+  "style_anchor": "3D stylized Pixar feature animation style, Disney adventure aesthetic, volumetric atmospheric lighting, rich saturated colors, subsurface scattering on skin, expressive stylized cartoon faces, natural body movement, detailed fabric weave and nature textures, cinematic composition, smooth 24fps motion blur, 16:9 widescreen, 4K render aesthetic.",
+  "negative_prompt": "live action, realistic human photo, photorealistic, 2D flat drawing, sketch, anime style, deformed limbs, extra fingers, missing limbs, distorted face, still slideshow, static characters, blurry background textures, low resolution, bad anatomy, frame stutter.",
+  "characters": [
+    {
+      "id": "LEO",
+      "name": "Leo",
+      "description": "10-year-old boy, athletic build, messy dark-brown hair with cowlick, hazel eyes, royal-blue pullover hoodie, beige cargo shorts, red canvas sneakers with white rubber toes. Energetic, curious.",
+      "sheet": "assets/characters/leo.jpg"
+    },
+    {
+      "id": "MIA",
+      "name": "Mia",
+      "description": "9-year-old girl, high twin dark-brown ponytails with purple hair bands, bright dark eyes, light freckles, canary-yellow hooded windbreaker, plum-purple denim shorts, white sneakers. Confident, smart.",
+      "sheet": "assets/characters/mia.jpg"
+    },
+    {
+      "id": "BOBO",
+      "name": "Bobo",
+      "description": "Small fluffy golden-brown terrier puppy, oversized expressive brown eyes, floppy ears, sky-blue collar with small circular silver tag. Playful, funny, loyal.",
+      "sheet": "assets/characters/bobo.jpg"
+    },
+    {
+      "id": "GRANDPA_TOM",
+      "name": "Grandpa Tom",
+      "description": "65-year-old man, neat silver-gray hair, bushy gray mustache, round wire-rimmed glasses, forest-green utility vest, brown work trousers, weathered boots. Warm, wise.",
+      "sheet": "assets/characters/grandpa_tom.jpg"
+    }
+  ],
+  "acts": [
+    {
+      "id": "I",
+      "title": "The Discovery in the Treehouse",
+      "time": "0:00 - 0:45",
+      "shots": [
+        {
+          "id": 1,
+          "title": "Above the Backyard",
+          "timecode": "0:00 - 0:07",
+          "video_prompt": "3D Pixar style feature animation. Golden afternoon sunbeams filtering through lush green oak leaves into an elaborate wooden treehouse. Inside, 10-year-old boy Leo (royal blue hoodie, messy brown hair, red sneakers) kneels on floorboards tapping with a toy wooden mallet. 9-year-old girl Mia (canary-yellow windbreaker, dark twin ponytails) sits cross-legged on a patterned rug adjusting a toy spyglass. Bobo, a fluffy golden puppy with a blue collar, lies nearby wagging his tail. Camera slowly cranes down from tree branches and dollys forward through the open rustic window. 24fps smooth cinematic.",
+          "camera": "Crane down from exterior canopy, slow forward dolly into treehouse window.",
+          "voiceover": [
+            { "speaker": "NARRATOR", "text": "Every great adventure in the world has to start somewhere. For Leo and Mia... it started right above their own backyard." }
+          ],
+          "dialogue": [],
+          "sfx": "Gentle breeze in leaves, songbirds chirping, hollow rhythmic wood tapping."
+        },
+        {
+          "id": 2,
+          "title": "The Hollow Board",
+          "timecode": "0:07 - 0:15",
+          "video_prompt": "3D Pixar style. Medium shot interior. Leo in his royal blue hoodie strikes a loose wooden floorboard, producing a distinct hollow resonant clonk. He freezes mid-strike, eyes widening in surprise. Fluffy golden puppy Bobo perks up his floppy ears, tilts his head 45 degrees, and gives an inquisitive soft puppy bark. Mia lowers her toy spyglass, leaning forward with lively curiosity. Expressive stylized faces, dynamic blinking.",
+          "camera": "Slow push-in over Leo's shoulder toward the vibrating floor plank.",
+          "voiceover": [],
+          "dialogue": [
+            { "speaker": "LEO", "text": "Mia! Look at this! This board isn't nailed down at all!" }
+          ],
+          "sfx": "Hollow wooden thud, soft curious puppy whimper."
+        },
+        {
+          "id": 3,
+          "title": "The Hidden Cedar Chest",
+          "timecode": "0:15 - 0:24",
+          "video_prompt": "3D Pixar style. Low-angle close-up. Leo's fingers hook under the loose oak plank, lifting it up to reveal swirling golden dust motes in sunbeams. Inside the dark floor cavity sits an ancient, dusty cedar chest bound in tarnished iron bands. Bobo places his two front paws on Leo's knee, sniffing rapidly with a twitching wet nose. Mia leans in close, her twin ponytails bouncing as she smiles with wide eyes.",
+          "camera": "45-degree downward tilt tracking the lifting plank, rack-focusing into the hidden box.",
+          "voiceover": [],
+          "dialogue": [
+            { "speaker": "MIA", "text": "Whoa... It's an old cedar chest! Leo, do you think it's been hidden here since the treehouse was built?" },
+            { "speaker": "LEO", "text": "Only one way to find out!" }
+          ],
+          "sfx": "Creaking dry timber, wood dust blowing, puppy sniffling."
+        },
+        {
+          "id": 4,
+          "title": "The Map and the Compass",
+          "timecode": "0:24 - 0:34",
+          "video_prompt": "3D Pixar style. Over-the-shoulder medium close-up. Leo wipes decades of dust off the cedar box with his hoodie sleeve and pops open the tarnished iron latch. The wooden lid creaks open smoothly. Inside, resting on faded red velvet, lies an aged rolled parchment map tied with a crimson ribbon, beside an ornate, heavy brass pocket compass etched with celestial sun and star symbols. Bobo sniffs the shiny brass; Mia gently pets his head.",
+          "camera": "Smooth 90-degree orbital arc around the glowing chest contents.",
+          "voiceover": [],
+          "dialogue": [],
+          "sfx": "Metallic iron latch click, antique wood hinge groan, puppy sneeze, collar tag jingle.",
+          "music": "Shimmering celesta and orchestral strings introduce a mysterious adventure theme."
+        },
+        {
+          "id": 5,
+          "title": "The Red X",
+          "timecode": "0:34 - 0:45",
+          "video_prompt": "3D Pixar style. Bird's-eye view smoothly dollying back into medium two-shot. Mia carefully unties the red ribbon, unrolling the crackling parchment map across the floorboards. The map shows hand-drawn forest trails, a winding river rapids, and a bold crimson red X over a mountain cave symbol. Leo holds the heavy golden compass as its brass needle spins wildly and locks toward the top-left corner. Leo leaps to his feet in excitement; Bobo spins in a happy circle.",
+          "camera": "Top-down bird's-eye view pulling out to dynamic eye-level medium two-shot.",
+          "voiceover": [],
+          "dialogue": [
+            { "speaker": "MIA", "text": "Look at these markings... That's our valley! The Whispering Forest!" },
+            { "speaker": "LEO", "text": "We have to show Grandpa Tom right now! Come on, Bobo!" }
+          ],
+          "sfx": "Unrolling dry paper parchment, compass mechanical click, two happy puppy barks."
+        }
+      ]
+    },
+    {
+      "id": "II",
+      "title": "Grandpa Explains the Map",
+      "time": "0:45 - 1:40",
+      "shots": [
+        {
+          "id": 6,
+          "title": "Kids Crash the Porch",
+          "timecode": "0:45 - 0:54",
+          "video_prompt": "3D Pixar style. Sunny cottage backyard porch. Grandpa Tom (65 years old, neat silver hair, bushy gray mustache, round glasses, olive-green utility vest over ecru shirt) sits in a wooden rocking chair peacefully whittling a pine block. The porch screen door flies outward. Leo in his blue hoodie, Mia in his yellow jacket, and fluffy Bobo charge down the porch steps, Leo waving the unrolled parchment map high in the air.",
+          "camera": "Low-angle tracking shot moving backward alongside Grandpa Tom's rocking chair.",
+          "voiceover": [],
+          "dialogue": [
+            { "speaker": "LEO", "text": "Grandpa! Look what was under the treehouse floorboards! A real hidden box!" }
+          ],
+          "sfx": "Screen door spring twang and wooden slam, sneakers running on wood decking."
+        },
+        {
+          "id": 7,
+          "title": "Grandpa Recognizes the Ink",
+          "timecode": "0:54 - 1:04",
+          "video_prompt": "3D Pixar style. Intimate close-up on Grandpa Tom's face. He lowers his whittling knife, peering over his round wire-rimmed spectacles at the parchment map laid across the rustic cedar table. His eyes widen in profound astonishment, his bushy gray mustache twitching into a tender, nostalgic smile. Warm sunlight reflects off his glasses. Highly expressive facial animation.",
+          "camera": "Slow push-in on Grandpa Tom's emotional, nostalgic face.",
+          "voiceover": [],
+          "dialogue": [
+            { "speaker": "GRANDPA_TOM", "text": "Bless my soul... I haven't laid eyes on this ink in over fifty years." }
+          ],
+          "sfx": "Wood block set down on table, gentle wind chimes."
+        },
+        {
+          "id": 8,
+          "title": "The Valley Explorers",
+          "timecode": "1:04 - 1:16",
+          "video_prompt": "3D Pixar style. Medium profile shot. Grandpa Tom holds the heavy golden compass in his weathered palms, gently polishing the glass lens with his thumb. Sun catches the brass casing, casting golden reflections across his face. Mia leans on his rocking chair armrest listening intently; Leo points enthusiastically at the red X on the map.",
+          "camera": "Smooth side pan tracking between Grandpa's hands and the children's faces.",
+          "voiceover": [],
+          "dialogue": [
+            { "speaker": "MIA", "text": "You made this, Grandpa? Is it really a treasure map?" },
+            { "speaker": "GRANDPA_TOM", "text": "My old childhood crew and I drew every line on this map. We called ourselves the Valley Explorers. And that red X leads straight into the Whispering Forest." }
+          ],
+          "sfx": "Compass brass handling, gentle porch rocking creaks."
+        },
+        {
+          "id": 9,
+          "title": "Tracing the Route",
+          "timecode": "1:16 - 1:28",
+          "video_prompt": "3D Pixar style. Macro close-up on the vintage map illustration. Grandpa Tom's weathered index finger traces along hand-inked topographical contours, crossing a roaring river sketch to an ancient mountain cavern marked with a red X. Shimmering golden memory dust particles subtly drift from the paper. Bobo rests his chin flat on the wooden table, watching Grandpa's finger intently.",
+          "camera": "Macro gliding shot tracking Grandpa's finger across the parchment map.",
+          "voiceover": [
+            { "speaker": "GRANDPA_TOM", "text": "There's an old forgotten cave beyond the rapids. We sealed a secret chest inside — a vault holding the greatest treasure of our youth. But only those who work together can unlock it." }
+          ],
+          "dialogue": [],
+          "sfx": "Finger rubbing textured paper, subtle magical chime."
+        },
+        {
+          "id": 10,
+          "title": "Back on Duty",
+          "timecode": "1:28 - 1:40",
+          "video_prompt": "3D Pixar style. Medium wide shot. Leo pumps his fist into the air with energetic determination. Mia fastens the golden compass securely to her yellow windbreaker zipper with a confident smile. Grandpa Tom stands up tall and warm, resting one hand on Leo's shoulder and patting Mia's head. Bobo wags his tail eagerly at their feet.",
+          "camera": "Medium-wide slow dolly backward as the kids turn toward the forest line.",
+          "voiceover": [],
+          "dialogue": [
+            { "speaker": "LEO", "text": "The Valley Explorers are officially back on duty!" },
+            { "speaker": "MIA", "text": "Don't worry, Grandpa Tom. We'll be back before sunset!" },
+            { "speaker": "GRANDPA_TOM", "text": "Keep an eye on the compass, watch your footing by the river... and whatever you do, keep an eye on Bobo!" }
+          ],
+          "sfx": "Compass lanyard clip snap, cheerful dog bark."
+        }
+      ]
+    },
+    {
+      "id": "III",
+      "title": "Entering the Forest",
+      "time": "1:40 - 3:00",
+      "shots": [
+        {
+          "id": 11,
+          "title": "Bobo Steals the Map",
+          "timecode": "1:40 - 1:52",
+          "video_prompt": "3D Pixar style. Fast slapstick comedy. Bobo the fluffy golden puppy suddenly bites onto the corner of the rolled parchment map, leaps off the porch rail, and bolts across the grassy lawn like a rocket! Leo and Mia react in cartoon shock with wide open mouths, then sprint after him in full pursuit, arms waving wildly. High energy comedic running animation.",
+          "camera": "Fast ground-level tracking shot chasing Bobo's fast-pattering legs and wagging tail.",
+          "voiceover": [],
+          "dialogue": [
+            { "speaker": "LEO", "text": "Bobo! Drop it! That's our map!" },
+            { "speaker": "MIA", "text": "Bobo! That is not a chew toy!" }
+          ],
+          "sfx": "Frantic dog paws on grass, running sneaker thuds.",
+          "music": "Playful xylophone chase music."
+        },
+        {
+          "id": 12,
+          "title": "The Fence Chase",
+          "timecode": "1:52 - 2:05",
+          "video_prompt": "3D Pixar style. Wide exterior shot. Bobo dives cleanly under a gap in a white picket fence into the forest meadow. Leo slides on his knees baseball-style across the clover, missing Bobo by inches. Mia vaults over the fence gate with athletic agility. Bobo halts abruptly on the other side, sitting proudly in the grass with the rolled map in his jaws, panting happily.",
+          "camera": "High-speed tracking pan matching Leo's slide and Mia's vault, locking onto Bobo.",
+          "voiceover": [],
+          "dialogue": [
+            { "speaker": "MIA", "text": "Bobo... look what I have! A crunchy liver biscuit!" }
+          ],
+          "sfx": "Slide across grass, wooden gate latch rattle, panting puppy."
+        },
+        {
+          "id": 13,
+          "title": "Biscuit Bargain",
+          "timecode": "2:05 - 2:15",
+          "video_prompt": "3D Pixar style. Comedic close-up on Bobo's face. His large dark eyes expand to double size, ears shooting straight up in excitement. He drops the rolled map onto the soft moss and lunges forward, catching the tossed dog biscuit out of mid-air with a loud crunch. Leo swoops in and snatches the map safely against his chest, dusting off the parchment.",
+          "camera": "Macro snap-zoom to Bobo's expressive face, rack-focusing to Leo grabbing the map.",
+          "voiceover": [],
+          "dialogue": [
+            { "speaker": "LEO", "text": "Good boy. Now you're the official tracker, not the map thief!" }
+          ],
+          "sfx": "Crunchy dog biscuit snap, happy puppy gulp, Leo laughing in relief."
+        },
+        {
+          "id": 14,
+          "title": "Into the Whispering Forest",
+          "timecode": "2:15 - 2:30",
+          "video_prompt": "3D Pixar style. Grand wide establishing crane shot. Leo in his blue hoodie, Mia in her yellow jacket, and fluffy Bobo step across the threshold into the Whispering Forest. Enormous ancient pine, birch, and oak trees rise like cathedral pillars. Shimmering golden sunbeams cut through emerald canopy mist with millions of drifting pollen motes. Bobo sniffs along a mossy dirt path. Camera sweeps upward through pine boughs.",
+          "camera": "Majestic crane up through tree branches, showcasing the vast scale of the ancient forest.",
+          "voiceover": [
+            { "speaker": "NARRATOR", "text": "The Whispering Forest was true to its name. The wind carried the rustle of leaves like ancient voices, guiding our brave explorers deeper into the unknown." }
+          ],
+          "dialogue": [],
+          "sfx": "Rustling wind in high pine needles, distant hooting owl, footsteps on soft moss."
+        },
+        {
+          "id": 15,
+          "title": "The Blue Butterfly",
+          "timecode": "2:30 - 2:45",
+          "video_prompt": "3D Pixar style. Backward steadicam tracking shot. An iridescent morpho butterfly with glowing azure-and-cyan wings flutters playfully around Leo and Mia as they walk. Bobo comically hops vertically on all fours, snapping harmlessly at the air. Mia looks down at the golden compass resting in her palm; the needle magically turns to track the butterfly's flight path toward an overgrown trail.",
+          "camera": "Smooth backward tracking shot at children's eye-level, moving along the winding path.",
+          "voiceover": [],
+          "dialogue": [
+            { "speaker": "MIA", "text": "Leo, look! The compass needle shifted northwest! Right toward the trail markings!" },
+            { "speaker": "LEO", "text": "The map says: 'Follow the blue wings past the weeping willows.' She's leading us!" }
+          ],
+          "sfx": "Butterfly flutter chime, soft puppy hops on moss, energetic footsteps."
+        },
+        {
+          "id": 16,
+          "title": "The River Canyon Reveal",
+          "timecode": "2:45 - 3:00",
+          "video_prompt": "3D Pixar style. Over-the-shoulder reveal shot. Leo sweeps aside a thick curtain of weeping willow leaves with his arm. Camera glides past his shoulder to reveal a dramatic, sunlit river canyon below, where a wide, roaring river rushes with turbulent white water and jagged boulders. Gusting canyon wind blows Bobo's fluffy ears straight back as he leans against Leo's red sneakers.",
+          "camera": "Over-the-shoulder push through willow vines, expanding into a grand panoramic canyon vista.",
+          "voiceover": [],
+          "dialogue": [
+            { "speaker": "LEO", "text": "Whoa! That is a lot faster than it looked on Grandpa's drawing!" }
+          ],
+          "sfx": "Roaring river rapids, crashing white water spray, gusting wind through canyon trees."
+        }
+      ]
+    },
+    {
+      "id": "IV",
+      "title": "Crossing the River",
+      "time": "3:00 - 4:20",
+      "shots": [
+        {
+          "id": 17,
+          "title": "The Fallen Redwood Bridge",
+          "timecode": "3:00 - 3:12",
+          "video_prompt": "3D Pixar style. Low-angle riverbank shot. A massive fallen redwood log bridge spans sixty feet across the violent white-water torrent, covered in slick emerald moss and river spray. Leo inspects the log's girth; Mia tests the wet moss with the rubber toe of her sneaker. Bobo peers over the drop-off into churning foam, whimpers nervously, and takes three cautious steps backward.",
+          "camera": "Low-angle tracking pan from the churning white-water rapids up the curve of the fallen redwood trunk.",
+          "voiceover": [],
+          "dialogue": [
+            { "speaker": "MIA", "text": "The wood is solid, but the moss is super slippery. We have to cross one by one!" },
+            { "speaker": "LEO", "text": "I'll go first to test the balance. Mia, keep a hand on Bobo's collar!" }
+          ],
+          "sfx": "Violent roaring river rapids, water splashing against boulders, nervous dog whimper."
+        },
+        {
+          "id": 18,
+          "title": "Leo Tests the Log",
+          "timecode": "3:12 - 3:25",
+          "video_prompt": "3D Pixar style. Dynamic medium action shot. Leo steps onto the fallen redwood log in his red sneakers, extending his arms out wide to each side like a tightrope walker. His blue hoodie flaps in the strong river updraft. Churning white foam rushes violently below his sneakers. Leo concentrates intensely, taking careful steps on dry bark patches, then looks back with a confident, encouraging grin.",
+          "camera": "Smooth tracking shot moving parallel to Leo across the fallen log bridge.",
+          "voiceover": [],
+          "dialogue": [
+            { "speaker": "LEO", "text": "It's good! Just step where the bark is dry! Mia, send Bobo across!" }
+          ],
+          "sfx": "Roaring water beneath log, wind howling, wood creaking under footsteps."
+        },
+        {
+          "id": 19,
+          "title": "Canine Commando Crawl",
+          "timecode": "3:25 - 3:38",
+          "video_prompt": "3D Pixar style. Comedic physical animation. Bobo the fluffy golden puppy drops his belly completely flat against the redwood log and begins army-crawling forward on his stomach with hilarious canine determination, ears pinned back like wings. Leo kneels halfway across the log, clapping his hands gently to encourage him. Low macro angle right in front of Bobo's wet sniffing snout, tracking backward.",
+          "camera": "Low macro camera right in front of Bobo's nose, dollying backward as he crawls.",
+          "voiceover": [],
+          "dialogue": [
+            { "speaker": "LEO", "text": "Look at you! The world's bravest canine commando! Keep coming, Bobo!" }
+          ],
+          "sfx": "Claws scratching wet redwood bark, puppy snorting breaths, Leo's warm laughter."
+        },
+        {
+          "id": 20,
+          "title": "Bobo Slips!",
+          "timecode": "3:38 - 3:52",
+          "video_prompt": "3D Pixar style. Dramatic suspense shot. Bobo hits a slick patch of damp green moss near the middle of the log; his hind paws slip off the side! Bobo yelps in panic, dangling over the violent white-water rapids below. Instantly, Leo drops flat onto his stomach on the log, lunging down with both arms to firmly grab Bobo's blue collar and front legs just in time.",
+          "camera": "Fast whip-pan and snap-zoom to Leo's hands grasping Bobo above the churning torrent.",
+          "voiceover": [],
+          "dialogue": [
+            { "speaker": "LEO", "text": "Gotcha! I've got you, buddy! Don't look down!" },
+            { "speaker": "MIA", "text": "Leo!" }
+          ],
+          "sfx": "Sharp puppy yelp, surging river roar, dramatic orchestral brass hit."
+        },
+        {
+          "id": 21,
+          "title": "Safe Landing",
+          "timecode": "3:52 - 4:05",
+          "video_prompt": "3D Pixar style. Medium close-up. Leo heaves Bobo safely up onto his chest, hugging the puppy tight against his blue hoodie. Leo stands up carefully and takes five confident strides across the log, leaping onto the safe gravel riverbank. He sets Bobo down. Bobo does an energetic full-body dog shake, spraying water droplets everywhere, and wags his tail happily.",
+          "camera": "Tracking shot following Leo stepping off the log onto solid ground, tilting down to Bobo.",
+          "voiceover": [],
+          "dialogue": [
+            { "speaker": "LEO", "text": "Safe! Come on over, Mia! Keep your eyes on the dry line!" }
+          ],
+          "sfx": "Dog fur shake with water splatters, happy puppy bark, Leo sighing in relief."
+        },
+        {
+          "id": 22,
+          "title": "Valley Explorers: 1, River: 0",
+          "timecode": "4:05 - 4:20",
+          "video_prompt": "3D Pixar style. Full wide shot. Mia crosses the fallen redwood log with athletic grace and balance, arms out, twin ponytails bobbing rhythmically. She leaps down onto the soft meadow grass beside Leo and Bobo, high-fiving Leo with a crisp smack. Leo unrolls the map and points toward an imposing limestone cliff towering through the pine trees ahead.",
+          "camera": "Smooth tracking shot following Mia's crossing, settling into a heroic three-shot.",
+          "voiceover": [],
+          "dialogue": [
+            { "speaker": "MIA", "text": "Valley Explorers: 1. Wild River: 0! Where to now?" },
+            { "speaker": "LEO", "text": "Right through those pines. Look... the entrance to the Whispering Cavern!" }
+          ],
+          "sfx": "High-five hand slap, rustling pine branches, footsteps on grass."
+        }
+      ]
+    },
+    {
+      "id": "V",
+      "title": "The Cave Puzzle",
+      "time": "4:20 - 6:00",
+      "shots": [
+        {
+          "id": 23,
+          "title": "The Whispering Cavern",
+          "timecode": "4:20 - 4:32",
+          "video_prompt": "3D Pixar style. Establishing wide shot. An imposing sixty-foot vertical limestone cliff covered in clinging ivy and twisted roots. At the base is a colossal arched cave opening shrouded in cool mist and deep purple shadows. Leo, Mia, and Bobo approach the dark entrance cautiously. Bobo sniffs the cool breeze billowing out from the cavern.",
+          "camera": "Low-angle slow dolly forward, tilting up to accentuate the cliff's massive scale.",
+          "voiceover": [
+            { "speaker": "NARRATOR", "text": "At the foot of the limestone cliffs, the trail ended at the legendary Whispering Cavern. But the ancient vault would not yield its secrets easily." }
+          ],
+          "dialogue": [],
+          "sfx": "Cavern wind whistling like an eerie flute, hollow dripping water, rustling ivy."
+        },
+        {
+          "id": 24,
+          "title": "The Puzzle Door",
+          "timecode": "4:32 - 4:44",
+          "video_prompt": "3D Pixar style. Cavern interior. Glowing cyan bioluminescent moss illuminates damp limestone rock walls. Directly ahead stands a massive circular stone puzzle door built from three concentric rotating stone rings. Each ring features ancient carved celestial symbols: THE SUN, THE STAR, and THE CRESCENT MOON. Leo steps forward, touching the smooth granite carvings.",
+          "camera": "180-degree smooth arc shot around the children bathed in cyan moss glow.",
+          "voiceover": [],
+          "dialogue": [
+            { "speaker": "LEO", "text": "A puzzle door! Grandpa Tom wasn't kidding. Look at these carvings!" }
+          ],
+          "sfx": "Deep cavern echo, stone surface touch, soft electrical bioluminescent hum."
+        },
+        {
+          "id": 25,
+          "title": "The Compass Is the Key",
+          "timecode": "4:44 - 4:56",
+          "video_prompt": "3D Pixar style. Macro close-up on the central hub of the stone door. There is a circular recessed socket with three notches, exactly matching Grandpa Tom's golden compass. Mia pulls the brass compass from her yellow windbreaker, comparing its base to the socket with wide, excited eyes. Bobo watches her with head tilted.",
+          "camera": "Macro rack-focus from the carved stone socket to the gleaming compass in Mia's hands.",
+          "voiceover": [],
+          "dialogue": [
+            { "speaker": "MIA", "text": "Leo! The compass isn't just for navigation... it's the key to the lock! Look at the notches!" },
+            { "speaker": "LEO", "text": "Try it! Put it in the center socket!" }
+          ],
+          "sfx": "Compass brass clinking, soft cavern drip echo."
+        },
+        {
+          "id": 26,
+          "title": "The Riddle Ignites",
+          "timecode": "4:56 - 5:10",
+          "video_prompt": "3D Pixar style. Mia carefully presses the golden compass into the center stone slot; it clicks in flush with a mechanical thud. Instantly, glowing golden lines pulse through the compass etchings into the stone rings. Carved stone letters above the door ignite with glowing golden light: \"FIRST SHINES THE DAWN, THEN COMES THE NIGHT, THE STAR BURNS LAST WITH ENDLESS LIGHT.\"",
+          "camera": "Upward tilt from the glowing compass socket to the luminous riddle above the arch.",
+          "voiceover": [],
+          "dialogue": [
+            { "speaker": "MIA", "text": "First shines the dawn... then comes the night... the star burns last with endless light." },
+            { "speaker": "LEO", "text": "Dawn, night, star? Does dawn mean the Sun?" }
+          ],
+          "sfx": "Heavy mechanical lock clunk, stone gears grinding, resonant golden magical chime."
+        },
+        {
+          "id": 27,
+          "title": "Dawn Is the Sun",
+          "timecode": "5:10 - 5:25",
+          "video_prompt": "3D Pixar style. Mia grips the heavy stone handles of the outermost ring. Straining her shoulders with realistic exertion, she rotates the massive ring clockwise. Stone dust trickles down as the carved SUN symbol aligns with the top golden arrow. The ring locks in place with a heavy KA-CHUNK, and the outer track blazes with golden illumination.",
+          "camera": "Dynamic low-angle tracking shot as Mia maneuvers the heavy stone ring.",
+          "voiceover": [],
+          "dialogue": [
+            { "speaker": "MIA", "text": "Dawn is the SUN! That has to be first!" },
+            { "speaker": "LEO", "text": "It locked in! One down, two to go!" }
+          ],
+          "sfx": "Heavy granite friction, stone lock KA-CHUNK, golden harmonic chime."
+        },
+        {
+          "id": 28,
+          "title": "Then Comes the Night",
+          "timecode": "5:25 - 5:40",
+          "video_prompt": "3D Pixar style. Leo and Mia grip the stone handles of the innermost ring together. Bobo hops excitedly around their sneakers, barking encouragement. Working together, they rotate the heavy granite counter-clockwise until the carved CRESCENT MOON symbol aligns below the Sun. Another heavy stone CLANG echoes, and a beam of golden light connects the two symbols.",
+          "camera": "Close-up on Leo and Mia's determined, smiling faces illuminated by golden light.",
+          "voiceover": [],
+          "dialogue": [
+            { "speaker": "LEO", "text": "Then comes the night! That's the Moon! Mia, the last one is the Star!" }
+          ],
+          "sfx": "Grinding granite gears, mechanical locking thud, dog yips."
+        },
+        {
+          "id": 29,
+          "title": "The Star Burns Last",
+          "timecode": "5:40 - 6:00",
+          "video_prompt": "3D Pixar style. Mia gently slides the middle ring into place. The STAR symbol snaps into alignment between Sun and Moon. A blinding flare of warm golden light bursts from the compass key! The three stone rings rotate rapidly in alternating directions and split open like flower petals, retracting into the cavern walls to reveal a glowing hidden inner sanctum.",
+          "camera": "Dramatic camera pull-back as the massive circular door unfolds into the walls.",
+          "voiceover": [],
+          "dialogue": [
+            { "speaker": "LEO_AND_MIA", "text": "WE DID IT!" }
+          ],
+          "sfx": "Deep tectonic bass rumble, sliding stone doors, triumphant orchestral fanfare crescendo, puppy barking joyfully."
+        }
+      ]
+    },
+    {
+      "id": "VI",
+      "title": "Cave Collapse and Escape",
+      "time": "6:00 - 7:15",
+      "shots": [
+        {
+          "id": 30,
+          "title": "The Inner Vault",
+          "timecode": "6:00 - 6:15",
+          "video_prompt": "3D Pixar style. Inside the secret inner vault chamber. On an elevated carved stone pedestal rests an ornate antique wooden chest trimmed with brass filigree, illuminated by a celestial beam of light filtering from a ceiling crevice. Leo, Mia, and Bobo approach the pedestal in sheer wonder. Leo reaches out his trembling hand toward the shiny brass latch.",
+          "camera": "Sweeping circular pedestal tracking shot around the illuminated treasure chest.",
+          "voiceover": [],
+          "dialogue": [
+            { "speaker": "MIA", "text": "Grandpa's treasure... It really was here the whole time!" }
+          ],
+          "sfx": "Ethereal vocal choir hum, gentle cave water drops, quiet footsteps on stone."
+        },
+        {
+          "id": 31,
+          "title": "Cave-in!",
+          "timecode": "6:15 - 6:28",
+          "video_prompt": "3D Pixar style. Sudden catastrophic earthquake! The cavern ceiling shakes violently. Deep jagged cracks split the rock overhead. Stalactites shatter and crash down. A 500-pound boulder smashes onto the stone floor right where Leo stood. Bobo cowers whimpering against Mia's legs. Handheld shaky camera simulation, falling limestone debris, and billowing dust clouds.",
+          "camera": "Handheld shaky camera, fast zoom-in on cracking ceiling, whip-pan to crashing boulder.",
+          "voiceover": [],
+          "dialogue": [
+            { "speaker": "LEO", "text": "THE CEILING IS COMING DOWN! GRAB THE CHEST!" }
+          ],
+          "sfx": "Massive tectonic boom, shattering limestone, crashing rocks, terrified dog whimper."
+        },
+        {
+          "id": 32,
+          "title": "Trapped!",
+          "timecode": "6:28 - 6:40",
+          "video_prompt": "3D Pixar style. High-intensity action shot. Leo and Mia grab the brass side handles of the heavy wooden chest, lifting it together. They sprint toward the chamber exit, but an avalanche of falling boulders crashes down across the main archway, completely sealing it behind a solid wall of fallen rock and billowing gray dust.",
+          "camera": "Rapid backward tracking shot running ahead of the kids, whipping 180 degrees to show the blocked door.",
+          "voiceover": [],
+          "dialogue": [
+            { "speaker": "MIA", "text": "THE ENTRANCE IS BLOCKED! WE'RE TRAPPED!" },
+            { "speaker": "LEO", "text": "There has to be another way out! Keep moving!" }
+          ],
+          "sfx": "Deafening rockfall crash, billowing dust coughs, heavy running footsteps."
+        },
+        {
+          "id": 33,
+          "title": "Bobo Finds the Lever",
+          "timecode": "6:40 - 6:52",
+          "video_prompt": "3D Pixar style. Ground-level tracking shot on Bobo. In the dusty chamber corner, Bobo sniffs a strong breeze fluttering through a wall crack. He spots a thick hanging tree-root lever tangled with ancient vines. Bobo leaps into the air, bites down hard on the root lever with his jaws, and pulls it straight down with his full body weight! Heavy counterweights grind inside the wall.",
+          "camera": "Ground-level tracking shot of Bobo leaping, clamping jaws onto vine lever, pulling downward.",
+          "voiceover": [],
+          "dialogue": [
+            { "speaker": "BOBO", "text": "Grrr-rr-YANK!", "audio": false }
+          ],
+          "sfx": "Puppy growl through teeth, heavy iron counterweights sliding inside stone."
+        },
+        {
+          "id": 34,
+          "title": "The Secret Exit",
+          "timecode": "6:52 - 7:05",
+          "video_prompt": "3D Pixar style. Wide action shot. As Bobo pulls the vine lever down, a concealed side tunnel in the limestone slides open, revealing daylight and forest air! Bobo lands on his feet and barks urgently at Leo and Mia, wagging his tail toward the open tunnel. Leo and Mia sprint toward the exit carrying the chest. Sweeping camera pan toward the sunlight.",
+          "camera": "Sweeping pan from the open secret tunnel over to the running kids carrying the chest.",
+          "voiceover": [],
+          "dialogue": [
+            { "speaker": "MIA", "text": "LEO! LOOK AT BOBO! HE FOUND A SECRET EXIT!" },
+            { "speaker": "LEO", "text": "RUN! RUN! RUN!" }
+          ],
+          "sfx": "Stone wall sliding open, puppy barking urgently, collapsing cave rumbles behind them."
+        },
+        {
+          "id": 35,
+          "title": "Into the Sunshine",
+          "timecode": "7:05 - 7:15",
+          "video_prompt": "3D Pixar style. Leo, Mia, and Bobo burst out of an ivy-covered hillside cave into blinding golden afternoon sunshine! Behind them, a huge cloud of gray limestone dust puffs out of the opening. Leo and Mia collapse safely onto a lush clover hillside, setting the chest between them. Bobo rolls onto his back, panting happily with his tongue out. Slow-motion tracking shot exiting cave into sunlight.",
+          "camera": "Slow-motion tracking shot exiting the dark cave into sunlit green meadow.",
+          "voiceover": [],
+          "dialogue": [
+            { "speaker": "LEO", "text": "We made it... We actually made it!" },
+            { "speaker": "MIA", "text": "You brilliant, brave little dog! You saved us!" }
+          ],
+          "sfx": "Dust puff whoosh, collapsing cavern rumble fading, happy dog panting, deep relieved breaths."
+        }
+      ]
+    },
+    {
+      "id": "VII",
+      "title": "Discovering the Real Treasure",
+      "time": "7:15 - 8:45",
+      "shots": [
+        {
+          "id": 36,
+          "title": "Opening the Chest",
+          "timecode": "7:15 - 7:28",
+          "video_prompt": "3D Pixar style. Lush grassy meadow at golden hour twilight. Leo kneels on the grass and unclips the brass latch of the wooden chest. He slowly lifts the lid. Mia and Bobo lean in close. Warm honey-gold sunlight illuminates the interior of the chest. Gentle push-in over Leo's shoulder as the lid opens.",
+          "camera": "Gentle push-in over Leo's shoulder as the chest lid lifts open.",
+          "voiceover": [],
+          "dialogue": [],
+          "sfx": "Soft brass latch click, smooth cedar wood creak, quiet evening breeze.",
+          "music": "Soft acoustic guitar and solo cello introduce a warm, emotional nostalgic melody."
+        },
+        {
+          "id": 37,
+          "title": "Not Gold — Memories",
+          "timecode": "7:28 - 7:42",
+          "video_prompt": "3D Pixar style. Top-down view inside the open chest. There is no gold or jewels; instead, there is a neatly kept collection of childhood memories: vintage 1960s black-and-white photos tied in twine, handwritten letters, a glass jar of colorful marbles, and a small hand-carved wooden toy sailboat. Leo looks confused, while Mia looks deeply touched. Macro gliding shot over the items.",
+          "camera": "Macro floating shot gliding over vintage photographs, handwritten journal, and toy boat.",
+          "voiceover": [],
+          "dialogue": [
+            { "speaker": "LEO", "text": "Wait... There's no gold? No jewels? No coins?" }
+          ],
+          "sfx": "Paper rustling, glass marbles clinking gently."
+        },
+        {
+          "id": 38,
+          "title": "The 1968 Photograph",
+          "timecode": "7:42 - 8:00",
+          "video_prompt": "3D Pixar style. Close-up on Mia's hands lifting the top black-and-white photograph. The photo shows four smiling 10-year-old boys in 1968 standing by the treehouse. In the center is young Grandpa Tom wearing his round spectacles and a huge smile, holding the carved wooden sailboat. Leo leans in, eyes widening with awe. Macro focus on vintage photo tilting up to Mia's face.",
+          "camera": "Macro focus on vintage photo, tilting smoothly up to Mia's emotional, tender face.",
+          "voiceover": [],
+          "dialogue": [
+            { "speaker": "MIA", "text": "Leo... look at this picture. Look at his glasses. Look at that smile." },
+            { "speaker": "LEO", "text": "Grandpa Tom... That's Grandpa when he was our age!" }
+          ],
+          "sfx": "Soft breeze, birds settling at dusk."
+        },
+        {
+          "id": 39,
+          "title": "Their Treasure",
+          "timecode": "8:00 - 8:18",
+          "video_prompt": "3D Pixar style. Leo picks up the carved wooden toy sailboat, stroking the whittled hull with his thumb. Mia gently turns pages of a handwritten club journal titled \"Valley Explorers 1968\". Bobo rests his chin peacefully on the chest rim. Warm orange and purple sunset light surrounds them. Slow 360-degree emotional camera arc.",
+          "camera": "Slow 360-degree circular emotional arc shot around the children in the glowing meadow.",
+          "voiceover": [],
+          "dialogue": [
+            { "speaker": "MIA", "text": "They didn't hide gold, Leo. They hid their memories. Every adventure they ever had... they kept it safe right here." },
+            { "speaker": "LEO", "text": "This was their treasure. It wasn't about getting rich. It was about remembering who they were." }
+          ],
+          "sfx": "Journal page turning, gentle evening crickets."
+        },
+        {
+          "id": 40,
+          "title": "Stories We Leave Behind",
+          "timecode": "8:18 - 8:32",
+          "video_prompt": "3D Pixar style. Wide silhouette shot. Against a peach-and-violet dusk sky, Leo and Mia walk down the meadow trail carrying the chest together. Ahead of them, fluffy Bobo proudly trots like a retriever, carrying the carved wooden toy sailboat gently in his mouth by its mast. Wide backward tracking shot moving along the valley path.",
+          "camera": "Wide backward tracking shot moving along the valley trail at sunset.",
+          "voiceover": [
+            { "speaker": "NARRATOR", "text": "The greatest discoveries aren't always made of gold and silver. Sometimes, the rarest treasure of all... is simply the stories we leave behind." }
+          ],
+          "dialogue": [],
+          "sfx": "Sneaker steps on gravel, evening crickets, dog collar tag jingle."
+        }
+      ]
+    },
+    {
+      "id": "VIII",
+      "title": "Grandpa Explains the Memories",
+      "time": "8:45 - 9:35",
+      "shots": [
+        {
+          "id": 41,
+          "title": "Home at Twilight",
+          "timecode": "8:45 - 8:58",
+          "video_prompt": "3D Pixar style. Cottage porch at twilight glowing with warm yellow lantern light. Grandpa Tom stands by the railing anxiously scanning the dark yard. Leo, Mia, and Bobo step into the warm porch light and place the chest on the wooden table. Bobo gently lays the wooden toy sailboat on top of the chest lid. Medium shot pushing in toward Grandpa Tom's relieved face.",
+          "camera": "Medium shot pushing in toward Grandpa Tom's relieved, astonished face.",
+          "voiceover": [],
+          "dialogue": [
+            { "speaker": "GRANDPA_TOM", "text": "You... you actually found it. You brought it back." }
+          ],
+          "sfx": "Wooden chest placed on table, porch boards creaking, gentle evening ambience."
+        },
+        {
+          "id": 42,
+          "title": "Grandpa's Sailboat",
+          "timecode": "8:58 - 9:12",
+          "video_prompt": "3D Pixar style. Close-up on Grandpa Tom's weathered hands picking up the carved wooden sailboat. He traces the pine hull. Mia hands him the vintage photograph. Grandpa looks at the picture of his childhood friends; an emotional tear glistens in the corner of his eye behind his round glasses. Intimate close-up rack-focusing to Leo and Mia smiling up at him.",
+          "camera": "Intimate close-up on Grandpa Tom, rack-focusing to Leo and Mia smiling up at him.",
+          "voiceover": [],
+          "dialogue": [
+            { "speaker": "GRANDPA_TOM", "text": "My old sailboat... Billy, Arthur, Jack, and me. We swore that no matter how old we grew, this chest would hold our friendship forever." }
+          ],
+          "sfx": "Wooden toy handled gently, soft emotional music swell."
+        },
+        {
+          "id": 43,
+          "title": "The Family Hug",
+          "timecode": "9:12 - 9:25",
+          "video_prompt": "3D Pixar style. Grandpa Tom wraps his arms around Leo and Mia, pulling both grandchildren into a warm, loving hug under the porch lantern. Leo rests his hand on Grandpa's arm; Mia leans against his green vest with a contented smile. Slow, heartwarming dolly-in on the family embrace.",
+          "camera": "Slow, heartwarming dolly-in on the family embrace under glowing lantern light.",
+          "voiceover": [],
+          "dialogue": [
+            { "speaker": "LEO", "text": "At first, I was looking for gold, Grandpa. But this is worth way more than anything shiny." },
+            { "speaker": "GRANDPA_TOM", "text": "That's the secret, Leo. The gold was the journey you two took today. The laughter, the courage, and the memories you made together." }
+          ],
+          "sfx": "Warm laughter, gentle porch wind chimes."
+        },
+        {
+          "id": 44,
+          "title": "The Marble Catastrophe",
+          "timecode": "9:25 - 9:35",
+          "video_prompt": "3D Pixar style. Comedic slapstick punchline! On the table corner, Bobo's wagging tail thumps happily against the chest, knocking over the glass jar of colorful marbles! Marbles spill across the porch floorboards in all directions. Leo, Mia, and Grandpa Tom scramble comically with outstretched hands to catch them, erupting into laughter. Whip-pan down to rolling marbles, then up to the laughing family.",
+          "camera": "Whip-pan down to rolling marbles, then tilting up to the laughing family.",
+          "voiceover": [],
+          "dialogue": [
+            { "speaker": "GRANDPA_TOM", "text": "Bobo! Some things never change — our old dog Barnaby knocked over the exact same marbles fifty years ago!" }
+          ],
+          "sfx": "Marbles clattering across wooden floorboards, dog tail thumping, loud family laughter."
+        }
+      ]
+    },
+    {
+      "id": "IX",
+      "title": "The Mysterious Compass & Cliffhanger",
+      "time": "9:35 - 10:00",
+      "shots": [
+        {
+          "id": 45,
+          "title": "Midnight Treehouse",
+          "timecode": "9:35 - 9:44",
+          "video_prompt": "3D Pixar style. Midnight exterior. Deep indigo starry sky with a bright silver crescent moon. Camera slowly glides into the dark treehouse window. Leo and Mia sit on floor pillows in pajamas, looking peacefully out at the moonlit forest. Fluffy puppy Bobo is curled up on his rug, snoring softly with tiny twitching paws. Cinematic slow push-in through the window.",
+          "camera": "Cinematic slow push-in through the treehouse window.",
+          "voiceover": [],
+          "dialogue": [],
+          "sfx": "Night crickets, distant barn owl hoot, gentle canine snoring.",
+          "music": "Mystical celesta and atmospheric strings build gentle anticipation."
+        },
+        {
+          "id": 46,
+          "title": "The Compass Awakens",
+          "timecode": "9:44 - 9:52",
+          "video_prompt": "3D Pixar style. Extreme close-up on the golden compass resting on the table. With a sharp metallic ping, the glass lens suddenly ignites with an ethereal, neon-blue phosphorescence! The brass needle spins violently counter-clockwise, then snaps dead-straight, pointing toward an uncharted mountain range in the distance. Macro snap-zoom into the glowing blue compass face.",
+          "camera": "Macro snap-zoom into the glowing blue compass face.",
+          "voiceover": [],
+          "dialogue": [],
+          "sfx": "Metallic gear whir, crystalline magical chime, deep vibrating bass pulse."
+        },
+        {
+          "id": 47,
+          "title": "The Blue Light",
+          "timecode": "9:52 - 9:57",
+          "video_prompt": "3D Pixar style. Over-the-shoulder shot behind Leo and Mia as they jump to their feet at the treehouse window. Far out in the pitch-black forest, miles away in the dark jagged mountains, a colossal pillar of vibrant blue light erupts into the night sky, illuminating the clouds from underneath. Camera pushes past the children toward the distant glowing mountain.",
+          "camera": "Over-the-shoulder push past the children toward the distant glowing blue mountain.",
+          "voiceover": [],
+          "dialogue": [
+            { "speaker": "MIA", "text": "The adventure isn't over." },
+            { "speaker": "LEO", "text": "It's just getting started." }
+          ],
+          "sfx": "Low magical sonic pulse reverberating through the valley."
+        },
+        {
+          "id": 48,
+          "title": "To Be Continued...",
+          "timecode": "9:57 - 10:00",
+          "video_prompt": "3D Pixar style. Epic crane pull-away shot. Camera swoops backwards high above the treehouse oak tree, revealing the vast moonlit forest valley while the mysterious blue light pulses on the far horizon. Glowing golden 3D text fades onto screen: \"TO BE CONTINUED...\". Fade to black.",
+          "camera": "Rapid high-altitude pull-away into grand wide vista, smooth fade to black.",
+          "voiceover": [],
+          "dialogue": [],
+          "graphics": "Glowing golden 3D text centered: \"TO BE CONTINUED...\"",
+          "sfx": "Full orchestral adventure fanfare hitting a thrilling crescendo, final mystical chime, fade to silence."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+SHOT 07 — GRANDPA RECOGNIZES THE INK  [0:54 - 1:04]
+ACT II: GRANDPA EXPLAINS THE MAP (0:45 - 1:40)
+
+[STYLE ANCHOR]
+3D stylized Pixar feature animation style, Disney adventure aesthetic, volumetric atmospheric lighting, rich saturated colors, subsurface scattering on skin, expressive stylized cartoon faces, natural body movement, detailed fabric weave and nature textures, cinematic composition, smooth 24fps motion blur, 16:9 widescreen, 4K render aesthetic.
+
+[VIDEO PROMPT]
+3D Pixar style. Intimate close-up on Grandpa Tom's face. He lowers his whittling knife, peering over his round wire-rimmed spectacles at the parchment map laid across the rustic cedar table. His eyes widen in profound astonishment, his bushy gray mustache twitching into a tender, nostalgic smile. Warm sunlight reflects off his glasses. Highly expressive facial animation.
+
+[CAMERA]
+Slow push-in on Grandpa Tom's emotional, nostalgic face.
+
+[DIALOGUE - GRANDPA_TOM]: "Bless my soul... I haven't laid eyes on this ink in over fifty years."
+
+[SFX]: Wood block set down on table, gentle wind chimes.
+
+[NEGATIVE PROMPT]
+live action, realistic human photo, photorealistic, 2D flat drawing, sketch, anime style, deformed limbs, extra fingers, missing limbs, distorted face, still slideshow, static characters, blurry background textures, low resolution, bad anatomy, frame stutter.

@@ -1,0 +1,18 @@
+SHOT 28 — THEN COMES THE NIGHT  [5:25 - 5:40]
+ACT V: THE CAVE PUZZLE (4:20 - 6:00)
+
+[STYLE ANCHOR]
+3D stylized Pixar feature animation style, Disney adventure aesthetic, volumetric atmospheric lighting, rich saturated colors, subsurface scattering on skin, expressive stylized cartoon faces, natural body movement, detailed fabric weave and nature textures, cinematic composition, smooth 24fps motion blur, 16:9 widescreen, 4K render aesthetic.
+
+[VIDEO PROMPT]
+3D Pixar style. Leo and Mia grip the stone handles of the innermost ring together. Bobo hops excitedly around their sneakers, barking encouragement. Working together, they rotate the heavy granite counter-clockwise until the carved CRESCENT MOON symbol aligns below the Sun. Another heavy stone CLANG echoes, and a beam of golden light connects the two symbols.
+
+[CAMERA]
+Close-up on Leo and Mia's determined, smiling faces illuminated by golden light.
+
+[DIALOGUE - LEO]: "Then comes the night! That's the Moon! Mia, the last one is the Star!"
+
+[SFX]: Grinding granite gears, mechanical locking thud, dog yips.
+
+[NEGATIVE PROMPT]
+live action, realistic human photo, photorealistic, 2D flat drawing, sketch, anime style, deformed limbs, extra fingers, missing limbs, distorted face, still slideshow, static characters, blurry background textures, low resolution, bad anatomy, frame stutter.

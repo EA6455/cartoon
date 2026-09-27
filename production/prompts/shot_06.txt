@@ -1,0 +1,18 @@
+SHOT 06 — KIDS CRASH THE PORCH  [0:45 - 0:54]
+ACT II: GRANDPA EXPLAINS THE MAP (0:45 - 1:40)
+
+[STYLE ANCHOR]
+3D stylized Pixar feature animation style, Disney adventure aesthetic, volumetric atmospheric lighting, rich saturated colors, subsurface scattering on skin, expressive stylized cartoon faces, natural body movement, detailed fabric weave and nature textures, cinematic composition, smooth 24fps motion blur, 16:9 widescreen, 4K render aesthetic.
+
+[VIDEO PROMPT]
+3D Pixar style. Sunny cottage backyard porch. Grandpa Tom (65 years old, neat silver hair, bushy gray mustache, round glasses, olive-green utility vest over ecru shirt) sits in a wooden rocking chair peacefully whittling a pine block. The porch screen door flies outward. Leo in his blue hoodie, Mia in his yellow jacket, and fluffy Bobo charge down the porch steps, Leo waving the unrolled parchment map high in the air.
+
+[CAMERA]
+Low-angle tracking shot moving backward alongside Grandpa Tom's rocking chair.
+
+[DIALOGUE - LEO]: "Grandpa! Look what was under the treehouse floorboards! A real hidden box!"
+
+[SFX]: Screen door spring twang and wooden slam, sneakers running on wood decking.
+
+[NEGATIVE PROMPT]
+live action, realistic human photo, photorealistic, 2D flat drawing, sketch, anime style, deformed limbs, extra fingers, missing limbs, distorted face, still slideshow, static characters, blurry background textures, low resolution, bad anatomy, frame stutter.

@@ -1,0 +1,18 @@
+SHOT 41 — HOME AT TWILIGHT  [8:45 - 8:58]
+ACT VIII: GRANDPA EXPLAINS THE MEMORIES (8:45 - 9:35)
+
+[STYLE ANCHOR]
+3D stylized Pixar feature animation style, Disney adventure aesthetic, volumetric atmospheric lighting, rich saturated colors, subsurface scattering on skin, expressive stylized cartoon faces, natural body movement, detailed fabric weave and nature textures, cinematic composition, smooth 24fps motion blur, 16:9 widescreen, 4K render aesthetic.
+
+[VIDEO PROMPT]
+3D Pixar style. Cottage porch at twilight glowing with warm yellow lantern light. Grandpa Tom stands by the railing anxiously scanning the dark yard. Leo, Mia, and Bobo step into the warm porch light and place the chest on the wooden table. Bobo gently lays the wooden toy sailboat on top of the chest lid. Medium shot pushing in toward Grandpa Tom's relieved face.
+
+[CAMERA]
+Medium shot pushing in toward Grandpa Tom's relieved, astonished face.
+
+[DIALOGUE - GRANDPA_TOM]: "You... you actually found it. You brought it back."
+
+[SFX]: Wooden chest placed on table, porch boards creaking, gentle evening ambience.
+
+[NEGATIVE PROMPT]
+live action, realistic human photo, photorealistic, 2D flat drawing, sketch, anime style, deformed limbs, extra fingers, missing limbs, distorted face, still slideshow, static characters, blurry background textures, low resolution, bad anatomy, frame stutter.

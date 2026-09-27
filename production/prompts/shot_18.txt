@@ -1,0 +1,18 @@
+SHOT 18 — LEO TESTS THE LOG  [3:12 - 3:25]
+ACT IV: CROSSING THE RIVER (3:00 - 4:20)
+
+[STYLE ANCHOR]
+3D stylized Pixar feature animation style, Disney adventure aesthetic, volumetric atmospheric lighting, rich saturated colors, subsurface scattering on skin, expressive stylized cartoon faces, natural body movement, detailed fabric weave and nature textures, cinematic composition, smooth 24fps motion blur, 16:9 widescreen, 4K render aesthetic.
+
+[VIDEO PROMPT]
+3D Pixar style. Dynamic medium action shot. Leo steps onto the fallen redwood log in his red sneakers, extending his arms out wide to each side like a tightrope walker. His blue hoodie flaps in the strong river updraft. Churning white foam rushes violently below his sneakers. Leo concentrates intensely, taking careful steps on dry bark patches, then looks back with a confident, encouraging grin.
+
+[CAMERA]
+Smooth tracking shot moving parallel to Leo across the fallen log bridge.
+
+[DIALOGUE - LEO]: "It's good! Just step where the bark is dry! Mia, send Bobo across!"
+
+[SFX]: Roaring water beneath log, wind howling, wood creaking under footsteps.
+
+[NEGATIVE PROMPT]
+live action, realistic human photo, photorealistic, 2D flat drawing, sketch, anime style, deformed limbs, extra fingers, missing limbs, distorted face, still slideshow, static characters, blurry background textures, low resolution, bad anatomy, frame stutter.

@@ -1,0 +1,19 @@
+SHOT 26 — THE RIDDLE IGNITES  [4:56 - 5:10]
+ACT V: THE CAVE PUZZLE (4:20 - 6:00)
+
+[STYLE ANCHOR]
+3D stylized Pixar feature animation style, Disney adventure aesthetic, volumetric atmospheric lighting, rich saturated colors, subsurface scattering on skin, expressive stylized cartoon faces, natural body movement, detailed fabric weave and nature textures, cinematic composition, smooth 24fps motion blur, 16:9 widescreen, 4K render aesthetic.
+
+[VIDEO PROMPT]
+3D Pixar style. Mia carefully presses the golden compass into the center stone slot; it clicks in flush with a mechanical thud. Instantly, glowing golden lines pulse through the compass etchings into the stone rings. Carved stone letters above the door ignite with glowing golden light: "FIRST SHINES THE DAWN, THEN COMES THE NIGHT, THE STAR BURNS LAST WITH ENDLESS LIGHT."
+
+[CAMERA]
+Upward tilt from the glowing compass socket to the luminous riddle above the arch.
+
+[DIALOGUE - MIA]: "First shines the dawn... then comes the night... the star burns last with endless light."
+[DIALOGUE - LEO]: "Dawn, night, star? Does dawn mean the Sun?"
+
+[SFX]: Heavy mechanical lock clunk, stone gears grinding, resonant golden magical chime.
+
+[NEGATIVE PROMPT]
+live action, realistic human photo, photorealistic, 2D flat drawing, sketch, anime style, deformed limbs, extra fingers, missing limbs, distorted face, still slideshow, static characters, blurry background textures, low resolution, bad anatomy, frame stutter.

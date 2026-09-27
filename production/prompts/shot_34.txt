@@ -1,0 +1,19 @@
+SHOT 34 — THE SECRET EXIT  [6:52 - 7:05]
+ACT VI: CAVE COLLAPSE AND ESCAPE (6:00 - 7:15)
+
+[STYLE ANCHOR]
+3D stylized Pixar feature animation style, Disney adventure aesthetic, volumetric atmospheric lighting, rich saturated colors, subsurface scattering on skin, expressive stylized cartoon faces, natural body movement, detailed fabric weave and nature textures, cinematic composition, smooth 24fps motion blur, 16:9 widescreen, 4K render aesthetic.
+
+[VIDEO PROMPT]
+3D Pixar style. Wide action shot. As Bobo pulls the vine lever down, a concealed side tunnel in the limestone slides open, revealing daylight and forest air! Bobo lands on his feet and barks urgently at Leo and Mia, wagging his tail toward the open tunnel. Leo and Mia sprint toward the exit carrying the chest. Sweeping camera pan toward the sunlight.
+
+[CAMERA]
+Sweeping pan from the open secret tunnel over to the running kids carrying the chest.
+
+[DIALOGUE - MIA]: "LEO! LOOK AT BOBO! HE FOUND A SECRET EXIT!"
+[DIALOGUE - LEO]: "RUN! RUN! RUN!"
+
+[SFX]: Stone wall sliding open, puppy barking urgently, collapsing cave rumbles behind them.
+
+[NEGATIVE PROMPT]
+live action, realistic human photo, photorealistic, 2D flat drawing, sketch, anime style, deformed limbs, extra fingers, missing limbs, distorted face, still slideshow, static characters, blurry background textures, low resolution, bad anatomy, frame stutter.

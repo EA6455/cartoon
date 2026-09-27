@@ -1,0 +1,19 @@
+SHOT 47 — THE BLUE LIGHT  [9:52 - 9:57]
+ACT IX: THE MYSTERIOUS COMPASS & CLIFFHANGER (9:35 - 10:00)
+
+[STYLE ANCHOR]
+3D stylized Pixar feature animation style, Disney adventure aesthetic, volumetric atmospheric lighting, rich saturated colors, subsurface scattering on skin, expressive stylized cartoon faces, natural body movement, detailed fabric weave and nature textures, cinematic composition, smooth 24fps motion blur, 16:9 widescreen, 4K render aesthetic.
+
+[VIDEO PROMPT]
+3D Pixar style. Over-the-shoulder shot behind Leo and Mia as they jump to their feet at the treehouse window. Far out in the pitch-black forest, miles away in the dark jagged mountains, a colossal pillar of vibrant blue light erupts into the night sky, illuminating the clouds from underneath. Camera pushes past the children toward the distant glowing mountain.
+
+[CAMERA]
+Over-the-shoulder push past the children toward the distant glowing blue mountain.
+
+[DIALOGUE - MIA]: "The adventure isn't over."
+[DIALOGUE - LEO]: "It's just getting started."
+
+[SFX]: Low magical sonic pulse reverberating through the valley.
+
+[NEGATIVE PROMPT]
+live action, realistic human photo, photorealistic, 2D flat drawing, sketch, anime style, deformed limbs, extra fingers, missing limbs, distorted face, still slideshow, static characters, blurry background textures, low resolution, bad anatomy, frame stutter.

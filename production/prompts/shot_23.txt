@@ -1,0 +1,18 @@
+SHOT 23 — THE WHISPERING CAVERN  [4:20 - 4:32]
+ACT V: THE CAVE PUZZLE (4:20 - 6:00)
+
+[STYLE ANCHOR]
+3D stylized Pixar feature animation style, Disney adventure aesthetic, volumetric atmospheric lighting, rich saturated colors, subsurface scattering on skin, expressive stylized cartoon faces, natural body movement, detailed fabric weave and nature textures, cinematic composition, smooth 24fps motion blur, 16:9 widescreen, 4K render aesthetic.
+
+[VIDEO PROMPT]
+3D Pixar style. Establishing wide shot. An imposing sixty-foot vertical limestone cliff covered in clinging ivy and twisted roots. At the base is a colossal arched cave opening shrouded in cool mist and deep purple shadows. Leo, Mia, and Bobo approach the dark entrance cautiously. Bobo sniffs the cool breeze billowing out from the cavern.
+
+[CAMERA]
+Low-angle slow dolly forward, tilting up to accentuate the cliff's massive scale.
+
+[VOICEOVER - NARRATOR]: "At the foot of the limestone cliffs, the trail ended at the legendary Whispering Cavern. But the ancient vault would not yield its secrets easily."
+
+[SFX]: Cavern wind whistling like an eerie flute, hollow dripping water, rustling ivy.
+
+[NEGATIVE PROMPT]
+live action, realistic human photo, photorealistic, 2D flat drawing, sketch, anime style, deformed limbs, extra fingers, missing limbs, distorted face, still slideshow, static characters, blurry background textures, low resolution, bad anatomy, frame stutter.

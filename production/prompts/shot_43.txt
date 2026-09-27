@@ -1,0 +1,19 @@
+SHOT 43 — THE FAMILY HUG  [9:12 - 9:25]
+ACT VIII: GRANDPA EXPLAINS THE MEMORIES (8:45 - 9:35)
+
+[STYLE ANCHOR]
+3D stylized Pixar feature animation style, Disney adventure aesthetic, volumetric atmospheric lighting, rich saturated colors, subsurface scattering on skin, expressive stylized cartoon faces, natural body movement, detailed fabric weave and nature textures, cinematic composition, smooth 24fps motion blur, 16:9 widescreen, 4K render aesthetic.
+
+[VIDEO PROMPT]
+3D Pixar style. Grandpa Tom wraps his arms around Leo and Mia, pulling both grandchildren into a warm, loving hug under the porch lantern. Leo rests his hand on Grandpa's arm; Mia leans against his green vest with a contented smile. Slow, heartwarming dolly-in on the family embrace.
+
+[CAMERA]
+Slow, heartwarming dolly-in on the family embrace under glowing lantern light.
+
+[DIALOGUE - LEO]: "At first, I was looking for gold, Grandpa. But this is worth way more than anything shiny."
+[DIALOGUE - GRANDPA_TOM]: "That's the secret, Leo. The gold was the journey you two took today. The laughter, the courage, and the memories you made together."
+
+[SFX]: Warm laughter, gentle porch wind chimes.
+
+[NEGATIVE PROMPT]
+live action, realistic human photo, photorealistic, 2D flat drawing, sketch, anime style, deformed limbs, extra fingers, missing limbs, distorted face, still slideshow, static characters, blurry background textures, low resolution, bad anatomy, frame stutter.

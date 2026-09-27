@@ -1,0 +1,18 @@
+SHOT 33 — BOBO FINDS THE LEVER  [6:40 - 6:52]
+ACT VI: CAVE COLLAPSE AND ESCAPE (6:00 - 7:15)
+
+[STYLE ANCHOR]
+3D stylized Pixar feature animation style, Disney adventure aesthetic, volumetric atmospheric lighting, rich saturated colors, subsurface scattering on skin, expressive stylized cartoon faces, natural body movement, detailed fabric weave and nature textures, cinematic composition, smooth 24fps motion blur, 16:9 widescreen, 4K render aesthetic.
+
+[VIDEO PROMPT]
+3D Pixar style. Ground-level tracking shot on Bobo. In the dusty chamber corner, Bobo sniffs a strong breeze fluttering through a wall crack. He spots a thick hanging tree-root lever tangled with ancient vines. Bobo leaps into the air, bites down hard on the root lever with his jaws, and pulls it straight down with his full body weight! Heavy counterweights grind inside the wall.
+
+[CAMERA]
+Ground-level tracking shot of Bobo leaping, clamping jaws onto vine lever, pulling downward.
+
+[DIALOGUE - BOBO]: "Grrr-rr-YANK!"
+
+[SFX]: Puppy growl through teeth, heavy iron counterweights sliding inside stone.
+
+[NEGATIVE PROMPT]
+live action, realistic human photo, photorealistic, 2D flat drawing, sketch, anime style, deformed limbs, extra fingers, missing limbs, distorted face, still slideshow, static characters, blurry background textures, low resolution, bad anatomy, frame stutter.

@@ -1,0 +1,18 @@
+SHOT 42 — GRANDPA'S SAILBOAT  [8:58 - 9:12]
+ACT VIII: GRANDPA EXPLAINS THE MEMORIES (8:45 - 9:35)
+
+[STYLE ANCHOR]
+3D stylized Pixar feature animation style, Disney adventure aesthetic, volumetric atmospheric lighting, rich saturated colors, subsurface scattering on skin, expressive stylized cartoon faces, natural body movement, detailed fabric weave and nature textures, cinematic composition, smooth 24fps motion blur, 16:9 widescreen, 4K render aesthetic.
+
+[VIDEO PROMPT]
+3D Pixar style. Close-up on Grandpa Tom's weathered hands picking up the carved wooden sailboat. He traces the pine hull. Mia hands him the vintage photograph. Grandpa looks at the picture of his childhood friends; an emotional tear glistens in the corner of his eye behind his round glasses. Intimate close-up rack-focusing to Leo and Mia smiling up at him.
+
+[CAMERA]
+Intimate close-up on Grandpa Tom, rack-focusing to Leo and Mia smiling up at him.
+
+[DIALOGUE - GRANDPA_TOM]: "My old sailboat... Billy, Arthur, Jack, and me. We swore that no matter how old we grew, this chest would hold our friendship forever."
+
+[SFX]: Wooden toy handled gently, soft emotional music swell.
+
+[NEGATIVE PROMPT]
+live action, realistic human photo, photorealistic, 2D flat drawing, sketch, anime style, deformed limbs, extra fingers, missing limbs, distorted face, still slideshow, static characters, blurry background textures, low resolution, bad anatomy, frame stutter.

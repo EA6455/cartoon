@@ -1,0 +1,19 @@
+SHOT 32 — TRAPPED!  [6:28 - 6:40]
+ACT VI: CAVE COLLAPSE AND ESCAPE (6:00 - 7:15)
+
+[STYLE ANCHOR]
+3D stylized Pixar feature animation style, Disney adventure aesthetic, volumetric atmospheric lighting, rich saturated colors, subsurface scattering on skin, expressive stylized cartoon faces, natural body movement, detailed fabric weave and nature textures, cinematic composition, smooth 24fps motion blur, 16:9 widescreen, 4K render aesthetic.
+
+[VIDEO PROMPT]
+3D Pixar style. High-intensity action shot. Leo and Mia grab the brass side handles of the heavy wooden chest, lifting it together. They sprint toward the chamber exit, but an avalanche of falling boulders crashes down across the main archway, completely sealing it behind a solid wall of fallen rock and billowing gray dust.
+
+[CAMERA]
+Rapid backward tracking shot running ahead of the kids, whipping 180 degrees to show the blocked door.
+
+[DIALOGUE - MIA]: "THE ENTRANCE IS BLOCKED! WE'RE TRAPPED!"
+[DIALOGUE - LEO]: "There has to be another way out! Keep moving!"
+
+[SFX]: Deafening rockfall crash, billowing dust coughs, heavy running footsteps.
+
+[NEGATIVE PROMPT]
+live action, realistic human photo, photorealistic, 2D flat drawing, sketch, anime style, deformed limbs, extra fingers, missing limbs, distorted face, still slideshow, static characters, blurry background textures, low resolution, bad anatomy, frame stutter.

@@ -1,0 +1,18 @@
+SHOT 37 — NOT GOLD — MEMORIES  [7:28 - 7:42]
+ACT VII: DISCOVERING THE REAL TREASURE (7:15 - 8:45)
+
+[STYLE ANCHOR]
+3D stylized Pixar feature animation style, Disney adventure aesthetic, volumetric atmospheric lighting, rich saturated colors, subsurface scattering on skin, expressive stylized cartoon faces, natural body movement, detailed fabric weave and nature textures, cinematic composition, smooth 24fps motion blur, 16:9 widescreen, 4K render aesthetic.
+
+[VIDEO PROMPT]
+3D Pixar style. Top-down view inside the open chest. There is no gold or jewels; instead, there is a neatly kept collection of childhood memories: vintage 1960s black-and-white photos tied in twine, handwritten letters, a glass jar of colorful marbles, and a small hand-carved wooden toy sailboat. Leo looks confused, while Mia looks deeply touched. Macro gliding shot over the items.
+
+[CAMERA]
+Macro floating shot gliding over vintage photographs, handwritten journal, and toy boat.
+
+[DIALOGUE - LEO]: "Wait... There's no gold? No jewels? No coins?"
+
+[SFX]: Paper rustling, glass marbles clinking gently.
+
+[NEGATIVE PROMPT]
+live action, realistic human photo, photorealistic, 2D flat drawing, sketch, anime style, deformed limbs, extra fingers, missing limbs, distorted face, still slideshow, static characters, blurry background textures, low resolution, bad anatomy, frame stutter.

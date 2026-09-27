@@ -1,0 +1,17 @@
+SHOT 45 — MIDNIGHT TREEHOUSE  [9:35 - 9:44]
+ACT IX: THE MYSTERIOUS COMPASS & CLIFFHANGER (9:35 - 10:00)
+
+[STYLE ANCHOR]
+3D stylized Pixar feature animation style, Disney adventure aesthetic, volumetric atmospheric lighting, rich saturated colors, subsurface scattering on skin, expressive stylized cartoon faces, natural body movement, detailed fabric weave and nature textures, cinematic composition, smooth 24fps motion blur, 16:9 widescreen, 4K render aesthetic.
+
+[VIDEO PROMPT]
+3D Pixar style. Midnight exterior. Deep indigo starry sky with a bright silver crescent moon. Camera slowly glides into the dark treehouse window. Leo and Mia sit on floor pillows in pajamas, looking peacefully out at the moonlit forest. Fluffy puppy Bobo is curled up on his rug, snoring softly with tiny twitching paws. Cinematic slow push-in through the window.
+
+[CAMERA]
+Cinematic slow push-in through the treehouse window.
+
+[SFX]: Night crickets, distant barn owl hoot, gentle canine snoring.
+[MUSIC]: Mystical celesta and atmospheric strings build gentle anticipation.
+
+[NEGATIVE PROMPT]
+live action, realistic human photo, photorealistic, 2D flat drawing, sketch, anime style, deformed limbs, extra fingers, missing limbs, distorted face, still slideshow, static characters, blurry background textures, low resolution, bad anatomy, frame stutter.

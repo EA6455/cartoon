@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Secret Map in the Treehouse — Production Storyboard</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;800&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="hero">
+  <div class="hero-inner">
+    <div class="hero-kicker">PRODUCTION STORYBOARD · 3D PIXAR-STYLE FEATURE ANIMATION</div>
+    <h1>The Secret Map <span>in the Treehouse</span></h1>
+    <div class="hero-meta">
+      <span class="chip chip-gold">⏱ 10:00</span>
+      <span class="chip">🎬 48 shots</span>
+      <span class="chip">🖼 16:9</span>
+      <span class="chip">✨ 4K / 1080p</span>
+      <span class="chip">🎞 9 acts</span>
+    </div>
+    <p class="hero-sub">Master AI video generation batch — keyframe art, cast voice lines, camera notes and ready-to-paste prompts for every shot.</p>
+
+    <div class="progress-wrap">
+      <div class="progress-row">
+        <span class="plabel">Keyframes</span>
+        <div class="bar"><div id="kf-bar" class="bar-fill kf"></div></div>
+        <span class="pcount" id="kf-count">… / 48</span>
+      </div>
+      <div class="progress-row">
+        <span class="plabel">Voice lines</span>
+        <div class="bar"><div id="vo-bar" class="bar-fill vo"></div></div>
+        <span class="pcount" id="vo-count">… / …</span>
+      </div>
+    </div>
+
+    <div id="filmstrip" class="filmstrip" title="Click a frame to jump to the shot"></div>
+  </div>
+</header>
+
+<nav id="actnav" class="actnav"></nav>
+
+<section class="settings">
+  <details class="panel" id="settings-panel">
+    <summary>⚙️ Global engine settings &amp; character anchors</summary>
+    <div class="panel-body">
+      <div class="setting-block">
+        <h4>Global style anchor</h4>
+        <p id="style-anchor" class="mono"></p>
+      </div>
+      <div class="setting-block">
+        <h4>Global negative prompt</h4>
+        <p id="negative-prompt" class="mono neg"></p>
+      </div>
+      <h4>Cast</h4>
+      <div id="cast-grid" class="cast-grid"></div>
+    </div>
+  </details>
+</section>
+
+<div class="controls">
+  <input id="search" type="search" placeholder="🔎 Search shots, dialogue, prompts, SFX…" autocomplete="off">
+  <span id="match-count" class="match-count"></span>
+</div>
+
+<main id="acts"></main>
+
+<footer class="footer">
+  <p><strong>The Secret Map in the Treehouse</strong> — full production package.</p>
+  <p class="mono small">
+    data/film.json · assets/characters · assets/keyframes/shot_XX.jpg · assets/audio/shot_XX_speaker.mp3 · prompts/shot_XX.txt
+  </p>
+  <p class="small">Keyframes and voice lines still rendering will show as pending placeholders and appear here automatically as they land.</p>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,19 @@
+SHOT 15 — THE BLUE BUTTERFLY  [2:30 - 2:45]
+ACT III: ENTERING THE FOREST (1:40 - 3:00)
+
+[STYLE ANCHOR]
+3D stylized Pixar feature animation style, Disney adventure aesthetic, volumetric atmospheric lighting, rich saturated colors, subsurface scattering on skin, expressive stylized cartoon faces, natural body movement, detailed fabric weave and nature textures, cinematic composition, smooth 24fps motion blur, 16:9 widescreen, 4K render aesthetic.
+
+[VIDEO PROMPT]
+3D Pixar style. Backward steadicam tracking shot. An iridescent morpho butterfly with glowing azure-and-cyan wings flutters playfully around Leo and Mia as they walk. Bobo comically hops vertically on all fours, snapping harmlessly at the air. Mia looks down at the golden compass resting in her palm; the needle magically turns to track the butterfly's flight path toward an overgrown trail.
+
+[CAMERA]
+Smooth backward tracking shot at children's eye-level, moving along the winding path.
+
+[DIALOGUE - MIA]: "Leo, look! The compass needle shifted northwest! Right toward the trail markings!"
+[DIALOGUE - LEO]: "The map says: 'Follow the blue wings past the weeping willows.' She's leading us!"
+
+[SFX]: Butterfly flutter chime, soft puppy hops on moss, energetic footsteps.
+
+[NEGATIVE PROMPT]
+live action, realistic human photo, photorealistic, 2D flat drawing, sketch, anime style, deformed limbs, extra fingers, missing limbs, distorted face, still slideshow, static characters, blurry background textures, low resolution, bad anatomy, frame stutter.

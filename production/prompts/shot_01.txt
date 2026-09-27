@@ -1,0 +1,18 @@
+SHOT 01 — ABOVE THE BACKYARD  [0:00 - 0:07]
+ACT I: THE DISCOVERY IN THE TREEHOUSE (0:00 - 0:45)
+
+[STYLE ANCHOR]
+3D stylized Pixar feature animation style, Disney adventure aesthetic, volumetric atmospheric lighting, rich saturated colors, subsurface scattering on skin, expressive stylized cartoon faces, natural body movement, detailed fabric weave and nature textures, cinematic composition, smooth 24fps motion blur, 16:9 widescreen, 4K render aesthetic.
+
+[VIDEO PROMPT]
+3D Pixar style feature animation. Golden afternoon sunbeams filtering through lush green oak leaves into an elaborate wooden treehouse. Inside, 10-year-old boy Leo (royal blue hoodie, messy brown hair, red sneakers) kneels on floorboards tapping with a toy wooden mallet. 9-year-old girl Mia (canary-yellow windbreaker, dark twin ponytails) sits cross-legged on a patterned rug adjusting a toy spyglass. Bobo, a fluffy golden puppy with a blue collar, lies nearby wagging his tail. Camera slowly cranes down from tree branches and dollys forward through the open rustic window. 24fps smooth cinematic.
+
+[CAMERA]
+Crane down from exterior canopy, slow forward dolly into treehouse window.
+
+[VOICEOVER - NARRATOR]: "Every great adventure in the world has to start somewhere. For Leo and Mia... it started right above their own backyard."
+
+[SFX]: Gentle breeze in leaves, songbirds chirping, hollow rhythmic wood tapping.
+
+[NEGATIVE PROMPT]
+live action, realistic human photo, photorealistic, 2D flat drawing, sketch, anime style, deformed limbs, extra fingers, missing limbs, distorted face, still slideshow, static characters, blurry background textures, low resolution, bad anatomy, frame stutter.

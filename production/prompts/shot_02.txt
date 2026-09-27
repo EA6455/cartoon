@@ -1,0 +1,18 @@
+SHOT 02 — THE HOLLOW BOARD  [0:07 - 0:15]
+ACT I: THE DISCOVERY IN THE TREEHOUSE (0:00 - 0:45)
+
+[STYLE ANCHOR]
+3D stylized Pixar feature animation style, Disney adventure aesthetic, volumetric atmospheric lighting, rich saturated colors, subsurface scattering on skin, expressive stylized cartoon faces, natural body movement, detailed fabric weave and nature textures, cinematic composition, smooth 24fps motion blur, 16:9 widescreen, 4K render aesthetic.
+
+[VIDEO PROMPT]
+3D Pixar style. Medium shot interior. Leo in his royal blue hoodie strikes a loose wooden floorboard, producing a distinct hollow resonant clonk. He freezes mid-strike, eyes widening in surprise. Fluffy golden puppy Bobo perks up his floppy ears, tilts his head 45 degrees, and gives an inquisitive soft puppy bark. Mia lowers her toy spyglass, leaning forward with lively curiosity. Expressive stylized faces, dynamic blinking.
+
+[CAMERA]
+Slow push-in over Leo's shoulder toward the vibrating floor plank.
+
+[DIALOGUE - LEO]: "Mia! Look at this! This board isn't nailed down at all!"
+
+[SFX]: Hollow wooden thud, soft curious puppy whimper.
+
+[NEGATIVE PROMPT]
+live action, realistic human photo, photorealistic, 2D flat drawing, sketch, anime style, deformed limbs, extra fingers, missing limbs, distorted face, still slideshow, static characters, blurry background textures, low resolution, bad anatomy, frame stutter.

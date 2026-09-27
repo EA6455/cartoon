@@ -1,0 +1,19 @@
+SHOT 03 — THE HIDDEN CEDAR CHEST  [0:15 - 0:24]
+ACT I: THE DISCOVERY IN THE TREEHOUSE (0:00 - 0:45)
+
+[STYLE ANCHOR]
+3D stylized Pixar feature animation style, Disney adventure aesthetic, volumetric atmospheric lighting, rich saturated colors, subsurface scattering on skin, expressive stylized cartoon faces, natural body movement, detailed fabric weave and nature textures, cinematic composition, smooth 24fps motion blur, 16:9 widescreen, 4K render aesthetic.
+
+[VIDEO PROMPT]
+3D Pixar style. Low-angle close-up. Leo's fingers hook under the loose oak plank, lifting it up to reveal swirling golden dust motes in sunbeams. Inside the dark floor cavity sits an ancient, dusty cedar chest bound in tarnished iron bands. Bobo places his two front paws on Leo's knee, sniffing rapidly with a twitching wet nose. Mia leans in close, her twin ponytails bouncing as she smiles with wide eyes.
+
+[CAMERA]
+45-degree downward tilt tracking the lifting plank, rack-focusing into the hidden box.
+
+[DIALOGUE - MIA]: "Whoa... It's an old cedar chest! Leo, do you think it's been hidden here since the treehouse was built?"
+[DIALOGUE - LEO]: "Only one way to find out!"
+
+[SFX]: Creaking dry timber, wood dust blowing, puppy sniffling.
+
+[NEGATIVE PROMPT]
+live action, realistic human photo, photorealistic, 2D flat drawing, sketch, anime style, deformed limbs, extra fingers, missing limbs, distorted face, still slideshow, static characters, blurry background textures, low resolution, bad anatomy, frame stutter.

@@ -1,0 +1,19 @@
+SHOT 38 — THE 1968 PHOTOGRAPH  [7:42 - 8:00]
+ACT VII: DISCOVERING THE REAL TREASURE (7:15 - 8:45)
+
+[STYLE ANCHOR]
+3D stylized Pixar feature animation style, Disney adventure aesthetic, volumetric atmospheric lighting, rich saturated colors, subsurface scattering on skin, expressive stylized cartoon faces, natural body movement, detailed fabric weave and nature textures, cinematic composition, smooth 24fps motion blur, 16:9 widescreen, 4K render aesthetic.
+
+[VIDEO PROMPT]
+3D Pixar style. Close-up on Mia's hands lifting the top black-and-white photograph. The photo shows four smiling 10-year-old boys in 1968 standing by the treehouse. In the center is young Grandpa Tom wearing his round spectacles and a huge smile, holding the carved wooden sailboat. Leo leans in, eyes widening with awe. Macro focus on vintage photo tilting up to Mia's face.
+
+[CAMERA]
+Macro focus on vintage photo, tilting smoothly up to Mia's emotional, tender face.
+
+[DIALOGUE - MIA]: "Leo... look at this picture. Look at his glasses. Look at that smile."
+[DIALOGUE - LEO]: "Grandpa Tom... That's Grandpa when he was our age!"
+
+[SFX]: Soft breeze, birds settling at dusk.
+
+[NEGATIVE PROMPT]
+live action, realistic human photo, photorealistic, 2D flat drawing, sketch, anime style, deformed limbs, extra fingers, missing limbs, distorted face, still slideshow, static characters, blurry background textures, low resolution, bad anatomy, frame stutter.

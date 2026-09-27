@@ -1,0 +1,17 @@
+SHOT 04 — THE MAP AND THE COMPASS  [0:24 - 0:34]
+ACT I: THE DISCOVERY IN THE TREEHOUSE (0:00 - 0:45)
+
+[STYLE ANCHOR]
+3D stylized Pixar feature animation style, Disney adventure aesthetic, volumetric atmospheric lighting, rich saturated colors, subsurface scattering on skin, expressive stylized cartoon faces, natural body movement, detailed fabric weave and nature textures, cinematic composition, smooth 24fps motion blur, 16:9 widescreen, 4K render aesthetic.
+
+[VIDEO PROMPT]
+3D Pixar style. Over-the-shoulder medium close-up. Leo wipes decades of dust off the cedar box with his hoodie sleeve and pops open the tarnished iron latch. The wooden lid creaks open smoothly. Inside, resting on faded red velvet, lies an aged rolled parchment map tied with a crimson ribbon, beside an ornate, heavy brass pocket compass etched with celestial sun and star symbols. Bobo sniffs the shiny brass; Mia gently pets his head.
+
+[CAMERA]
+Smooth 90-degree orbital arc around the glowing chest contents.
+
+[SFX]: Metallic iron latch click, antique wood hinge groan, puppy sneeze, collar tag jingle.
+[MUSIC]: Shimmering celesta and orchestral strings introduce a mysterious adventure theme.
+
+[NEGATIVE PROMPT]
+live action, realistic human photo, photorealistic, 2D flat drawing, sketch, anime style, deformed limbs, extra fingers, missing limbs, distorted face, still slideshow, static characters, blurry background textures, low resolution, bad anatomy, frame stutter.

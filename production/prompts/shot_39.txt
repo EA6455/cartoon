@@ -1,0 +1,19 @@
+SHOT 39 — THEIR TREASURE  [8:00 - 8:18]
+ACT VII: DISCOVERING THE REAL TREASURE (7:15 - 8:45)
+
+[STYLE ANCHOR]
+3D stylized Pixar feature animation style, Disney adventure aesthetic, volumetric atmospheric lighting, rich saturated colors, subsurface scattering on skin, expressive stylized cartoon faces, natural body movement, detailed fabric weave and nature textures, cinematic composition, smooth 24fps motion blur, 16:9 widescreen, 4K render aesthetic.
+
+[VIDEO PROMPT]
+3D Pixar style. Leo picks up the carved wooden toy sailboat, stroking the whittled hull with his thumb. Mia gently turns pages of a handwritten club journal titled "Valley Explorers 1968". Bobo rests his chin peacefully on the chest rim. Warm orange and purple sunset light surrounds them. Slow 360-degree emotional camera arc.
+
+[CAMERA]
+Slow 360-degree circular emotional arc shot around the children in the glowing meadow.
+
+[DIALOGUE - MIA]: "They didn't hide gold, Leo. They hid their memories. Every adventure they ever had... they kept it safe right here."
+[DIALOGUE - LEO]: "This was their treasure. It wasn't about getting rich. It was about remembering who they were."
+
+[SFX]: Journal page turning, gentle evening crickets.
+
+[NEGATIVE PROMPT]
+live action, realistic human photo, photorealistic, 2D flat drawing, sketch, anime style, deformed limbs, extra fingers, missing limbs, distorted face, still slideshow, static characters, blurry background textures, low resolution, bad anatomy, frame stutter.

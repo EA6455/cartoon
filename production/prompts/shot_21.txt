@@ -1,0 +1,18 @@
+SHOT 21 — SAFE LANDING  [3:52 - 4:05]
+ACT IV: CROSSING THE RIVER (3:00 - 4:20)
+
+[STYLE ANCHOR]
+3D stylized Pixar feature animation style, Disney adventure aesthetic, volumetric atmospheric lighting, rich saturated colors, subsurface scattering on skin, expressive stylized cartoon faces, natural body movement, detailed fabric weave and nature textures, cinematic composition, smooth 24fps motion blur, 16:9 widescreen, 4K render aesthetic.
+
+[VIDEO PROMPT]
+3D Pixar style. Medium close-up. Leo heaves Bobo safely up onto his chest, hugging the puppy tight against his blue hoodie. Leo stands up carefully and takes five confident strides across the log, leaping onto the safe gravel riverbank. He sets Bobo down. Bobo does an energetic full-body dog shake, spraying water droplets everywhere, and wags his tail happily.
+
+[CAMERA]
+Tracking shot following Leo stepping off the log onto solid ground, tilting down to Bobo.
+
+[DIALOGUE - LEO]: "Safe! Come on over, Mia! Keep your eyes on the dry line!"
+
+[SFX]: Dog fur shake with water splatters, happy puppy bark, Leo sighing in relief.
+
+[NEGATIVE PROMPT]
+live action, realistic human photo, photorealistic, 2D flat drawing, sketch, anime style, deformed limbs, extra fingers, missing limbs, distorted face, still slideshow, static characters, blurry background textures, low resolution, bad anatomy, frame stutter.

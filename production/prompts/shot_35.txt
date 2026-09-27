@@ -1,0 +1,19 @@
+SHOT 35 — INTO THE SUNSHINE  [7:05 - 7:15]
+ACT VI: CAVE COLLAPSE AND ESCAPE (6:00 - 7:15)
+
+[STYLE ANCHOR]
+3D stylized Pixar feature animation style, Disney adventure aesthetic, volumetric atmospheric lighting, rich saturated colors, subsurface scattering on skin, expressive stylized cartoon faces, natural body movement, detailed fabric weave and nature textures, cinematic composition, smooth 24fps motion blur, 16:9 widescreen, 4K render aesthetic.
+
+[VIDEO PROMPT]
+3D Pixar style. Leo, Mia, and Bobo burst out of an ivy-covered hillside cave into blinding golden afternoon sunshine! Behind them, a huge cloud of gray limestone dust puffs out of the opening. Leo and Mia collapse safely onto a lush clover hillside, setting the chest between them. Bobo rolls onto his back, panting happily with his tongue out. Slow-motion tracking shot exiting cave into sunlight.
+
+[CAMERA]
+Slow-motion tracking shot exiting the dark cave into sunlit green meadow.
+
+[DIALOGUE - LEO]: "We made it... We actually made it!"
+[DIALOGUE - MIA]: "You brilliant, brave little dog! You saved us!"
+
+[SFX]: Dust puff whoosh, collapsing cavern rumble fading, happy dog panting, deep relieved breaths.
+
+[NEGATIVE PROMPT]
+live action, realistic human photo, photorealistic, 2D flat drawing, sketch, anime style, deformed limbs, extra fingers, missing limbs, distorted face, still slideshow, static characters, blurry background textures, low resolution, bad anatomy, frame stutter.

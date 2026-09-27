@@ -1,0 +1,18 @@
+SHOT 31 — CAVE-IN!  [6:15 - 6:28]
+ACT VI: CAVE COLLAPSE AND ESCAPE (6:00 - 7:15)
+
+[STYLE ANCHOR]
+3D stylized Pixar feature animation style, Disney adventure aesthetic, volumetric atmospheric lighting, rich saturated colors, subsurface scattering on skin, expressive stylized cartoon faces, natural body movement, detailed fabric weave and nature textures, cinematic composition, smooth 24fps motion blur, 16:9 widescreen, 4K render aesthetic.
+
+[VIDEO PROMPT]
+3D Pixar style. Sudden catastrophic earthquake! The cavern ceiling shakes violently. Deep jagged cracks split the rock overhead. Stalactites shatter and crash down. A 500-pound boulder smashes onto the stone floor right where Leo stood. Bobo cowers whimpering against Mia's legs. Handheld shaky camera simulation, falling limestone debris, and billowing dust clouds.
+
+[CAMERA]
+Handheld shaky camera, fast zoom-in on cracking ceiling, whip-pan to crashing boulder.
+
+[DIALOGUE - LEO]: "THE CEILING IS COMING DOWN! GRAB THE CHEST!"
+
+[SFX]: Massive tectonic boom, shattering limestone, crashing rocks, terrified dog whimper.
+
+[NEGATIVE PROMPT]
+live action, realistic human photo, photorealistic, 2D flat drawing, sketch, anime style, deformed limbs, extra fingers, missing limbs, distorted face, still slideshow, static characters, blurry background textures, low resolution, bad anatomy, frame stutter.

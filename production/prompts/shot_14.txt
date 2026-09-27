@@ -1,0 +1,18 @@
+SHOT 14 — INTO THE WHISPERING FOREST  [2:15 - 2:30]
+ACT III: ENTERING THE FOREST (1:40 - 3:00)
+
+[STYLE ANCHOR]
+3D stylized Pixar feature animation style, Disney adventure aesthetic, volumetric atmospheric lighting, rich saturated colors, subsurface scattering on skin, expressive stylized cartoon faces, natural body movement, detailed fabric weave and nature textures, cinematic composition, smooth 24fps motion blur, 16:9 widescreen, 4K render aesthetic.
+
+[VIDEO PROMPT]
+3D Pixar style. Grand wide establishing crane shot. Leo in his blue hoodie, Mia in her yellow jacket, and fluffy Bobo step across the threshold into the Whispering Forest. Enormous ancient pine, birch, and oak trees rise like cathedral pillars. Shimmering golden sunbeams cut through emerald canopy mist with millions of drifting pollen motes. Bobo sniffs along a mossy dirt path. Camera sweeps upward through pine boughs.
+
+[CAMERA]
+Majestic crane up through tree branches, showcasing the vast scale of the ancient forest.
+
+[VOICEOVER - NARRATOR]: "The Whispering Forest was true to its name. The wind carried the rustle of leaves like ancient voices, guiding our brave explorers deeper into the unknown."
+
+[SFX]: Rustling wind in high pine needles, distant hooting owl, footsteps on soft moss.
+
+[NEGATIVE PROMPT]
+live action, realistic human photo, photorealistic, 2D flat drawing, sketch, anime style, deformed limbs, extra fingers, missing limbs, distorted face, still slideshow, static characters, blurry background textures, low resolution, bad anatomy, frame stutter.

@@ -1,0 +1,19 @@
+SHOT 20 — BOBO SLIPS!  [3:38 - 3:52]
+ACT IV: CROSSING THE RIVER (3:00 - 4:20)
+
+[STYLE ANCHOR]
+3D stylized Pixar feature animation style, Disney adventure aesthetic, volumetric atmospheric lighting, rich saturated colors, subsurface scattering on skin, expressive stylized cartoon faces, natural body movement, detailed fabric weave and nature textures, cinematic composition, smooth 24fps motion blur, 16:9 widescreen, 4K render aesthetic.
+
+[VIDEO PROMPT]
+3D Pixar style. Dramatic suspense shot. Bobo hits a slick patch of damp green moss near the middle of the log; his hind paws slip off the side! Bobo yelps in panic, dangling over the violent white-water rapids below. Instantly, Leo drops flat onto his stomach on the log, lunging down with both arms to firmly grab Bobo's blue collar and front legs just in time.
+
+[CAMERA]
+Fast whip-pan and snap-zoom to Leo's hands grasping Bobo above the churning torrent.
+
+[DIALOGUE - LEO]: "Gotcha! I've got you, buddy! Don't look down!"
+[DIALOGUE - MIA]: "Leo!"
+
+[SFX]: Sharp puppy yelp, surging river roar, dramatic orchestral brass hit.
+
+[NEGATIVE PROMPT]
+live action, realistic human photo, photorealistic, 2D flat drawing, sketch, anime style, deformed limbs, extra fingers, missing limbs, distorted face, still slideshow, static characters, blurry background textures, low resolution, bad anatomy, frame stutter.

@@ -1,0 +1,18 @@
+SHOT 29 — THE STAR BURNS LAST  [5:40 - 6:00]
+ACT V: THE CAVE PUZZLE (4:20 - 6:00)
+
+[STYLE ANCHOR]
+3D stylized Pixar feature animation style, Disney adventure aesthetic, volumetric atmospheric lighting, rich saturated colors, subsurface scattering on skin, expressive stylized cartoon faces, natural body movement, detailed fabric weave and nature textures, cinematic composition, smooth 24fps motion blur, 16:9 widescreen, 4K render aesthetic.
+
+[VIDEO PROMPT]
+3D Pixar style. Mia gently slides the middle ring into place. The STAR symbol snaps into alignment between Sun and Moon. A blinding flare of warm golden light bursts from the compass key! The three stone rings rotate rapidly in alternating directions and split open like flower petals, retracting into the cavern walls to reveal a glowing hidden inner sanctum.
+
+[CAMERA]
+Dramatic camera pull-back as the massive circular door unfolds into the walls.
+
+[DIALOGUE - LEO_AND_MIA]: "WE DID IT!"
+
+[SFX]: Deep tectonic bass rumble, sliding stone doors, triumphant orchestral fanfare crescendo, puppy barking joyfully.
+
+[NEGATIVE PROMPT]
+live action, realistic human photo, photorealistic, 2D flat drawing, sketch, anime style, deformed limbs, extra fingers, missing limbs, distorted face, still slideshow, static characters, blurry background textures, low resolution, bad anatomy, frame stutter.
