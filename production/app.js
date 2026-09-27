@@ -149,8 +149,23 @@ async function main() {
   renderActs();
   renderFilmstrip();
   trackProgress();
+  revealDownloads();
   wireControls();
   wireEditEvents();
+}
+
+/* one-click download buttons — shown only when the zips actually exist */
+async function revealDownloads() {
+  const row = document.getElementById('download-row');
+  const full = document.getElementById('dl-full');
+  const film = document.getElementById('dl-film');
+  const [hasFull, hasFilm] = await Promise.all([
+    exists('the_secret_map_complete_package.zip'),
+    exists('the_secret_map_in_the_treehouse.zip')
+  ]);
+  if (!hasFull) full.style.display = 'none';
+  if (!hasFilm) film.style.display = 'none';
+  if (hasFull || hasFilm) row.hidden = false;
 }
 
 /* ---------- renderers ---------- */
